@@ -1,0 +1,23 @@
+@import url("https://raw.githubusercontent.com/cs-soc-tudublin/IdentityFlip/master/assets/fonts/montserrat/loader.css");
+@import url("https://raw.githubusercontent.com/cs-soc-tudublin/IdentityFlip/master/assets/fonts/roboto-mono/loader.css");
+
+:root {
+  --md-text-font: "Montserrat", sans-serif;
+  --md-code-font: "Roboto Mono", monospace;
+}
+
+[data-md-color-scheme="slate"] * {
+  --md-typeset-a-color: #2a1191;
+}
+
+@keyframes logo {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.5);
+  }
+}
+.md-logo {
+  animation: logo 1000ms 1;
+}

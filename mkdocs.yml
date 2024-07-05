@@ -1,0 +1,119 @@
+site_name: CS++ Docs
+site_url: https://docs.cspp.ie/
+site_description: The home for all CS++ technical documentation
+repo_url: https://github.com/cs-soc-tudublin/docs
+repo_name: cs-soc-tudublin/docs
+use_directory_urls: true
+
+theme:
+  name: material
+  logo: https://raw.githubusercontent.com/cs-soc-tudublin/IdentityFlup/main/assets/logos/cspp.svg
+  favicon: res/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - content.code.copy
+    - content.code.annotate
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    - toc.integrate
+
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+
+plugins:
+  - awesome-pages
+  - callouts
+  - glightbox
+  - search
+  - social
+  - material-plausible
+  - tags:
+      tags_file: tags.md
+  - git-revision-date-localized:
+      type: timeago
+
+markdown_extensions:
+  - attr_list
+  - abbr
+  - nl2br
+  - meta
+  - admonition
+  - pymdownx.snippets
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+      auto_title: true
+      linenums: true
+      linenums_style: pymdownx-inline
+      anchor_linenums: true
+  - toc:
+      permalink: true
+
+copyright:  <img class="logo" src="https://raw.githubusercontent.com/cs-soc-tudublin/IdentityFlip/master/assets/logos/cspp.svg" width="20px"> <a href="https://docs.cspp.ie"><strong>CS++ Docs</strong></a>
+
+extra:
+  github_org: https://github.com/cs-soc-tudublin
+  manifest: manifest.webmanifest
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://cspp.ie
+      name: Redbrick Website
+    - icon: fontawesome/brands/github
+      link: https://github.com/cs-soc-tudublin
+      name: Github
+    - icon: fontawesome/brands/discord
+      link: https://discord.cspp.ie
+      name: Discord
+  analytics:
+    provider: plausible
+    domain: docs.cspp.ie
+    src: "https://plausible.io/js/script.js"
+    feedback:
+      title: Was this page helpful?
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: This page was helpful
+          data: good
+          note: >-
+            Thanks for your feedback!
+
+        - icon: material/emoticon-sad-outline
+          name: This page could be improved
+          data: bad
+          note: >-
+            Thanks for your feedback! Help us improve this page by
+            <a href="https://discord.cspp.ie" >contacting us!</a>
+
+extra_css:
+  - stylesheets/extra.css
