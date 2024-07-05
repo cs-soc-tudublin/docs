@@ -1,3 +1,3 @@
-# Redbrick docs
-The home for all Redbrick technical documentation  
-[docs.redbrick.dcu.ie](https://docs.redbrick.dcu.ie)
+# CS++ System Documentation
+The home for all CS++ technical documentation  
+[docs.cspp.ie](https://docs.cspp.ie)
