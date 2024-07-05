@@ -7,7 +7,7 @@ use_directory_urls: true
 
 theme:
   name: material
-  logo: https://raw.githubusercontent.com/cs-soc-tudublin/IdentityFlup/main/assets/logos/cspp.svg
+  logo: res/roundel.svg
   favicon: res/favicon.ico
   icon:
     repo: fontawesome/brands/github
