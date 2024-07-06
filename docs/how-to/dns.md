@@ -7,7 +7,7 @@ tags:
   - sysadmin
   - hard
 ---
-# *How-To:* Modify DNS
+# *How To:* Modify DNS
 This document will go over what DNS and Domains are, and how to add a subdomain to cspp.ie and host something on it!
 
 DNS, or Domain Name System is a system which converts IP Addresses to the URLs that we all know and love, for example:
