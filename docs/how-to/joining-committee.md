@@ -57,8 +57,10 @@ If someone managed to steal your key, and it wasn't password protected, they wou
 *What do you recommend?*
 We recommend that you  use a password (That isn't your usual one!)
 
-If you want a password, type it in (It will not show up as you type!) and press `ENTER`.
+If you want a password, type it in and press `ENTER`.
 If you do not want to use a password (for shame!), just press `ENTER`.
+
+!!! note "The password section will remain blank as you type!"
 
 You will then be prompted to re-enter your password, if you haven't given a password, just press `ENTER` again.
 
@@ -67,8 +69,8 @@ Once that is done, it will tell you where it has saved your identification (Priv
 ## What Next?
 Well, here's the first thing you need to know after you generate your key.
 
-# __DO NOT SHARE YOUR PRIVATE KEY__
-Your private key is the one WITHOUT `.pub`. Sharing your private key means anyone can use it to do whatever they like as you on CS++ infrastructure! Treat it like you do your passport, bank account, and passwords. Not even sysadmins or the chair need your private key!
+!!! danger "__DO NOT SHARE YOUR PRIVATE KEY__"
+	Your private key is the one WITHOUT `.pub`. Sharing your private key means anyone can use it to do whatever they like as you on CS++ infrastructure! Treat it like you do your passport, bank account, and passwords. Not even sysadmins or the chair need your private key!
 
 Okay, what do you *really* do next?
 
@@ -81,3 +83,5 @@ The Sysadmin will then go somewhere, do funny magic, and let you know you can co
 
 ### Connecting to Your First Server
 With all that done, you can now connect to your first server. To do this, read [THIS guide](./ssh.md).
+
+Happy joining!

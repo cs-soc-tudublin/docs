@@ -61,6 +61,21 @@ Last login: Fri Jul 5 17:19:39 2024 from ███.███.███.███
 bitflip@huey-dewey-louie:~$
 ```
 
+## Updating Your Password
+Since your account was just created, the Sysadmin should have given you a **TEMPORARY PASSWORD**. This password will require you to change it on first log in.
+
+It'll look like this:
+```bash
+You are required to change your password immediately (administrator enforced).
+Changing password for USERNAME.
+Current password:
+```
+
+Enter your temporary password in `Current password:`
+Then enter a new password for your user.
+
+!!! note "The password section will remain blank as you type!"
+
 You just made your first SSH connection to CS++ infrastructure, congrats!
 
 # But How Do I Get Out?
