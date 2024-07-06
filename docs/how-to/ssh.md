@@ -1,5 +1,5 @@
 ---
-title: How To SSH
+title: SSH
 tags:
   - how-to
   - easy
