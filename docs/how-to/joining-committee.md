@@ -81,7 +81,7 @@ Go to one of the Sysadmins, and send them two things:
 - A username you want to go by
 - Your public key (That's the file with the `.pub` file type!)
 
-The Sysadmin will then go somewhere, do funny magic, and let you know you can connect to CS++ services, ain't that just neat!
+The Sysadmin will then go somewhere, [do funny magic](./add-a-user.md), and let you know you can connect to CS++ services, ain't that just neat!
 
 ### Connecting to Your First Server
 With all that done, you can now connect to your first server. To do this, read [THIS guide](./ssh.md).
