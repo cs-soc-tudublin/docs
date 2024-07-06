@@ -81,7 +81,7 @@ You just made your first SSH connection to CS++ infrastructure, congrats!
 # But How Do I Get Out?
 To disconnect, you can type the following:
 ```bash
-bitlfip@huey-dewey-louie:~$ exit
+bitflip@huey-dewey-louie:~$ exit
 ```
 
 You'll then see this in your terminal:
