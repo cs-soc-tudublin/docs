@@ -27,10 +27,11 @@ Huey Dewey Louie is currently running the following services:
 | Networking | Infinite in, 32TB out @ 400 megabits per second (Mb/s) |
 | Region     | European Union (Germany)                               |
 
-## IP Addresses
+## IP Addresses & Domains
 ### Internal
 N/A
 
 ### External
 `158.220.114.253`
 `158.220.114.254`
+`hdl.cspp.ie`
