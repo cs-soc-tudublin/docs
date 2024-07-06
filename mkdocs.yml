@@ -88,7 +88,7 @@ extra:
   social:
     - icon: fontawesome/solid/globe
       link: https://cspp.ie
-      name: Redbrick Website
+      name: CS++ Website
     - icon: fontawesome/brands/github
       link: https://github.com/cs-soc-tudublin
       name: Github
