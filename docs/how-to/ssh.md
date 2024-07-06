@@ -18,7 +18,7 @@ To do this, we use a piece of software called [Secure Shell (SSH)](https://en.wi
 
 The way SSH works is by essentially creating a terminal (Think Command Prompt) on the server that a terminal on your computer connects to. Cool, huh?
 
-Before we continue, please make sure you have followed the [Setting up Technically](./joining-committee.md)
+Before we continue, please make sure you have followed the [Setting up Technically Guide](./joining-committee.md).
 
 # Your First Connection
 With your generated SSH key (For this doc, let's say my SSH Private Key is `/home/bitflip/.ssh/cspp`), open a terminal, like Terminal for MacOS or PowerShell for Windows.
