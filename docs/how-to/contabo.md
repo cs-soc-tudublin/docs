@@ -1,7 +1,7 @@
 ---
 title: Contabo
-created: 2024-07-06
-modified: 2024-07-06
+created: 2024-07-07
+modified: 2024-07-07
 tags:
   - how-to
   - easy
