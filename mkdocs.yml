@@ -48,8 +48,7 @@ plugins:
   - awesome-pages
   - callouts
   - glightbox
-  - link-marker:
-      icon_external_link: fontawesome/solid/arrow-up-right-from-square
+  - link-marker
   - search
   - social
   - material-plausible
