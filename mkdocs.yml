@@ -47,8 +47,8 @@ theme:
 plugins:
   - awesome-pages
   - privacy:
-    links_attr_map:
-      target: _blank
+      links_attr_map:
+        target: _blank
   - callouts
   - glightbox
   - search
