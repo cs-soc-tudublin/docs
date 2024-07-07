@@ -7,7 +7,6 @@ tags:
   - easy
   - sysadmin
 ---
-
 # *How To:* Add A User
 
 Occasionally, you'll need to add users to a server. This doc will help you create a user, give them admin permission, add a user's SSH key, and let them run docker commands.
