@@ -6,3 +6,4 @@ material-plausible-plugin
 mkdocs-glightbox
 mkdocs-redirects
 mkdocs-material[imaging]
+mkdocs-link-marker
