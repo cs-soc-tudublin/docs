@@ -8,7 +8,7 @@ tags:
   - joining
   - committee
 ---
-# Joining the Committee - Infrastructure
+# *How To:* Joining the Committee - Infrastructure
 (This document is designed to be used by incoming CS++ Committee, if you're not that, you don't need to read it!)
 
 If you haven't heard it yet, congratulations! Welcome to the CS++ committee!

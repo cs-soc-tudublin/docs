@@ -15,6 +15,7 @@ Huey Dewey Louie is currently running the following services:
 - [Plume](../../services/plume.md)
 - [Starboard](../../services/starboard.md)
 - [Vaultwarden](../../services/vaultwarden.md)
+- [BitHunt](../../services/bithunt.md)
 
 # Technical Specifications
 

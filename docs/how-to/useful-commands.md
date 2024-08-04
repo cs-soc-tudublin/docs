@@ -55,6 +55,7 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.  14757.2 avail Mem
 | `%MEM`    | Memory Utilisation in Percentage                                                                                   |
 | `TIME+`   | Total CPU time used by the process, in hundredths of a second                                                      |
 | `COMMAND` | The command used to start the process                                                                              |
+
 ## Restarting a Server
 When you want to restart a server, run the following command:
 ```bash
