@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9820fcb51be98943",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/writing-clerk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/stealing-from-redbrick.md",
+                "file": "posts/writing-clerk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/stealing-from-redbrick.md",
+                "file": "posts/writing-clerk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/stealing-from-redbrick.md"
+                "file": "posts/writing-clerk.md"
               }
             }
           }
@@ -147,10 +160,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5b11eea3f767aa7",
+  "active": "9820fcb51be98943",
   "lastOpenFiles": [
-    "README.md",
     "posts/stealing-from-redbrick.md",
+    "posts/writing-clerk.md",
+    "README.md",
     "posts",
     "Untitled"
   ]

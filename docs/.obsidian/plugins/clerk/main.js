@@ -27,7 +27,7 @@ __export(main_exports, {
   default: () => Clerk
 });
 module.exports = __toCommonJS(main_exports);
-var import_obsidian4 = require("obsidian");
+var import_obsidian3 = require("obsidian");
 
 // src/blogModal.ts
 var import_obsidian = require("obsidian");
@@ -103,7 +103,7 @@ ${tagsString}
 ${frontmatterAuthor}
 ${frontmatterDashes}`;
 }
-function createDocsFrontMatter(title, tags) {
+function createDocsFrontmatter(title, tags) {
   const tagsArray = tags.split(" ");
   const frontmatterDashes = "---";
   const frontMatterTitle = `title: ${title}`;
@@ -117,70 +117,12 @@ ${created}
 ${tagsString}
 ${frontmatterDashes}`;
 }
-function createMinutesFrontMatter(title, attending, chair, meetingGroup, meetingAuthor) {
-  const attendingArray = attending.split(",");
-  const frontmatterDashes = "---";
-  const frontMatterTitle = `title: ${title}`;
-  const frontMatterChair = `chaired by: ${chair}`;
-  const frontMatterMeetingGroup = `meeting group: ${meetingGroup}`;
-  const frontMatterMeetingAuthor = `minutes by: ${meetingAuthor}`;
-  const created = `timestamp: ${new Date().toISOString()}`;
-  const attendingIndent = attendingArray.map((attendant) => `   - ${attendant}`).join("\n");
-  const attendingString = `attending:
-${attendingIndent}`;
-  return `${frontmatterDashes}
-${frontMatterTitle}
-${created}
-start time: 00:00
-end time: 00:00
-${attendingString}
-${frontMatterChair}
-${frontMatterMeetingGroup}
-${frontMatterMeetingAuthor}
-${frontmatterDashes}`;
-}
-
-// src/minutesModal.ts
-var import_obsidian3 = require("obsidian");
-var minutesModal = class extends import_obsidian3.Modal {
-  constructor(app, onSubmit) {
-    super(app);
-    this.onSubmit = onSubmit;
-  }
-  onOpen() {
-    const { contentEl } = this;
-    contentEl.createEl("h1", { text: "Create New Meeting Minutes" });
-    new import_obsidian3.Setting(contentEl).setName("Meeting Title").addText((text) => text.onChange((value) => {
-      this.title = value;
-    }));
-    new import_obsidian3.Setting(contentEl).setName("Who is attending? (Separated by COMMAS!)").addText((text) => text.onChange((value) => {
-      this.attending = value;
-    }));
-    new import_obsidian3.Setting(contentEl).setName("Who is chairing the meeting?").addText((text) => text.onChange((value) => {
-      this.chair = value;
-    }));
-    new import_obsidian3.Setting(contentEl).setName("What group is meeting?").addText((text) => text.onChange((value) => {
-      this.meetingGroup = value;
-    }));
-    new import_obsidian3.Setting(contentEl).setName("Who is taking the meeting minutes?").addText((text) => text.onChange((value) => {
-      this.meetingAuthor = value;
-    }));
-    new import_obsidian3.Setting(contentEl).addButton((btn) => btn.setButtonText("Submit").setCta().onClick(() => {
-      this.close();
-      this.onSubmit({ title: this.title, attending: this.attending, chair: this.chair, meetingGroup: this.meetingGroup, meetingAuthor: this.meetingAuthor });
-    }));
-  }
-  onClose() {
-    const { contentEl } = this;
-    contentEl.empty();
-  }
-};
 
 // main.ts
 var DEFAULT_SETTINGS = {
   mySetting: "default"
 };
-var Clerk = class extends import_obsidian4.Plugin {
+var Clerk = class extends import_obsidian3.Plugin {
   async onload() {
     await this.loadSettings();
     this.addCommand({
@@ -197,16 +139,7 @@ var Clerk = class extends import_obsidian4.Plugin {
       name: "Create a docs page",
       editorCallback: (editor, view) => {
         new docsModal(this.app, (result) => {
-          editor.replaceSelection(createDocsFrontMatter(result.title, result.tags));
-        }).open();
-      }
-    });
-    this.addCommand({
-      id: "open-meetings-modal",
-      name: "Create meeting minutes",
-      editorCallback: (editor, view) => {
-        new minutesModal(this.app, (result) => {
-          editor.replaceSelection(createMinutesFrontMatter(result.title, result.attending, result.chair, result.meetingGroup, result.meetingAuthor));
+          editor.replaceSelection(createDocsFrontmatter(result.title, result.tags));
         }).open();
       }
     });

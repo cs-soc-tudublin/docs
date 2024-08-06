@@ -1,8 +1,8 @@
 {
 	"id": "clerk",
 	"name": "Clerk",
-	"version": "1.0.2",
-	"minAppVersion": "1.0.2",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
 	"description": "Makes it easier to start writing Blog Posts and Docs for CS++.",
 	"author": "Ruán Murgatroyd",
 	"authorUrl": "https://rjm.ie/",
