@@ -1,25 +1,30 @@
 ---
 title: Useful Commands
-created: 2024-07-07
-modified: 2024-07-07
+created: 2024-07-07T00:00:00
+modified: 2024-08-06T16:47:54
 tags:
   - how-to
   - easy
   - sysadmin
 ---
+
 # *How To*: Use Some Useful Commands
+
 This doc will go over certain useful commands you may use on the infrastructure.
 
 # System Commands
 
 ## View System Stats
+
 If you want to view CPU & RAM usage, active processes, and system uptime, run the following command:
+
 ```bash
 top -i
 # -i will hide any inactive processes.
 ```
 
 It will look something like this:
+
 ```
 top - 11:52:41 up 57 days,  3:13,  1 user,  load average: 0.24, 0.20, 0.13
 Tasks: 194 total,   1 running, 193 sleeping,   0 stopped,   0 zombie
@@ -31,7 +36,6 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.  14757.2 avail Mem
 ███████ netdata   ██  ██  ██████ ██████  █████ █   3.3   1.2 290:45.66 netdata
 ```
 
-
 | Item           | Meaning                                                                                        |
 | -------------- | ---------------------------------------------------------------------------------------------- |
 | **`up`**       | Show uptime in days                                                                            |
@@ -39,7 +43,6 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.  14757.2 avail Mem
 | `%CPU(s)`      | CPU utilisations                                                                               |
 | **`MiB Mem`**  | Shows the total, free, used, and cached memory in KibiBytes (MiB)                              |
 | **`MiB Swap`** | Shows the total, free, use, and available [Swap](https://phoenixnap.com/kb/swap-space) memory. |
-
 
 | Column    | Meaning                                                                                                            |
 | --------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -57,13 +60,17 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.  14757.2 avail Mem
 | `COMMAND` | The command used to start the process                                                                              |
 
 ## Restarting a Server
+
 When you want to restart a server, run the following command:
+
 ```bash
 sudo shutdown -r now
 # -r tells it to restart
 # now tells it to do it immediately
 ```
+
 You will be instantly disconnected as the server shuts down and restarts.
+
 A restart may take a few minutes, so do be patient!
 
 !!! note "After a restart, follow the [restart / unexpected shutdown checklist](./power-loss-checklist.md)!"

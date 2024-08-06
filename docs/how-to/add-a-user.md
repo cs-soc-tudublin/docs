@@ -1,12 +1,13 @@
 ---
 title: Add A User
-created: 2024-07-06
-modified: 2024-07-06
+created: 2024-07-06T00:00:00
+modified: 2024-08-06T16:47:54
 tags:
   - how-to
   - easy
   - sysadmin
 ---
+
 # *How To:* Add A User
 
 Occasionally, you'll need to add users to a server. This doc will help you create a user, give them admin permission, add a user's SSH key, and let them run docker commands.
@@ -96,6 +97,7 @@ echo [PASTE_PUBLIC_KEY_HERE] > authorized_keys
 In Linux, an administrator account is called a `sudoer`, as the commend you use to run something as an administrator is `sudo`.
 
 !!! WARNING
+
 	This will give the user the ability to run ANY command with FULL permissions, only do this if you are **CERTAIN** you are adding the right person, and have permission to add them.
 
 If you want to make a user a sudoer, you add them to the '`sudo` group'!
@@ -109,6 +111,7 @@ sudo adduser [USERNAME] sudo
 You may be prompted to enter your password.
 
 # Letting a User Run Docker Commands
+
 If you want to make it easier for a user to run Docker commands without having to preface it with `sudo`, you can add the user to the Docker group:
 
 ```bash

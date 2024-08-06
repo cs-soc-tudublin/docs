@@ -1,7 +1,7 @@
 ---
 title: Contabo
-created: 2024-07-07
-modified: 2024-07-07
+created: 2024-07-07T00:00:00
+modified: 2024-08-06T16:47:54
 tags:
   - how-to
   - easy
@@ -9,6 +9,7 @@ tags:
   - hardware
   - cloud
 ---
+
 # *How To:* Use Contabo
 
 [Contabo](https://contabo.com/) is our Cloud hosting provider of choice.
@@ -18,9 +19,11 @@ Currently, it hosts [Huey Dewey Louie](../hardware/cloud/huey-dewey-louie.md), o
 This doc will explain what we use Contabo for, and common instructions for duties on Contabo.
 
 This is the Contabo side panel, everything in blue is for *modifying current* stuff, everything in yellow is for *getting new* stuff.
+
 ![](../res/docs_res/contabo.webp)
 
 # Controlling a VPS
+
 One of the most common tasks done on Contabo is Controlling a VPS.
 
 First, go to `VPS Control` in the `control panel` section of the side panel.
@@ -28,7 +31,9 @@ First, go to `VPS Control` in the `control panel` section of the side panel.
 This will list every VPS owned by the society, and provide common actions for them.
 
 ## VPS Controls
+
 ![](../res/docs_res/vps_controls.webp)
+
 Above is all actions and information on the VPS that can be seen / done.
 
 | Item                                 | Purpose                                                                                                       |
@@ -53,9 +58,11 @@ Above is all actions and information on the VPS that can be seen / done.
 | **`Enable VNC`**                     | Enables an emergency, insecure, connection method to the VPS. Use as a lifeboat!                              |
 
 ## What Do We Normally Press?
+
 Admittedly, not much!
 
 You'll most often go on the VPS Controls to grab a snapshot before doing something which could cause:
+
 - Data Loss
 - Downtime
 
@@ -66,4 +73,5 @@ We will VERY VERY rarely modify the specs & addons for the VPS, as this changes 
 The VPSes are spec'd out (Defining what they will do, what they need to do that, and adding some hardware buffers) before being acquired, so shouldn't need additional changes.
 
 # DNS Zone Management
+
 For all DNS related changes, read [this guide](./dns.md).
