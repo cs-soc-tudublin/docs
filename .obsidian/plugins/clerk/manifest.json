@@ -1,0 +1,11 @@
+{
+	"id": "clerk",
+	"name": "Clerk",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Makes it easier to start writing Blog Posts and Docs for CS++.",
+	"author": "Ruán Murgatroyd",
+	"authorUrl": "https://rjm.ie/",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
