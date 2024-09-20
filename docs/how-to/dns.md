@@ -112,7 +112,7 @@ This will then create an NGINX container, running on `PORT` and `PORT_2`. We now
 To set up the reverse proxy, run the following command:
 
 ```bash
-cs /etc/nginx/sites-available
+cd /etc/nginx/sites-available
 sudo cp rp_template [SUBDOMAIN].cspp.ie
 ```
 
