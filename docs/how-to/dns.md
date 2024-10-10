@@ -1,7 +1,7 @@
 ---
 title: DNS
 created: 2024-07-06T00:00:00
-modified: 2024-08-12T18:18:08
+modified: 2024-10-10T11:16:06
 tags:
   - how-to
   - sysadmin
@@ -10,7 +10,7 @@ tags:
 
 # *How To:* Modify DNS
 
-This document will go over what DNS and Domains are, and how to add a subdomain to cspp.ie and host something on it!
+This document will go over what DNS and Domains are, and how to add a subdomain to cspp.ie and host something on it, or have the domain redirect!
 
 DNS, or Domain Name System is a system which converts IP Addresses to the URLs that we all know and love, for example:
 
@@ -112,7 +112,7 @@ This will then create an NGINX container, running on `PORT` and `PORT_2`. We now
 To set up the reverse proxy, run the following command:
 
 ```bash
-cs /etc/nginx/sites-available
+cd /etc/nginx/sites-available
 sudo cp rp_template [SUBDOMAIN].cspp.ie
 ```
 
@@ -141,7 +141,42 @@ Replace SUBDOMAIN and PORT with the subdomain and `PORT` configured earlier, the
 
 Now we need to enable this site.
 
-### Enabling the Site
+## Having the Subdomain Redirect
+
+For some cases, we don't want to host a service on this subdomain, but instead have it redirect. This may be for sites like `discord.cspp.ie` which redirects to our Discord server.
+
+In this case, the subdomain still points to the server, but we just redirect them.
+
+To set this up run the following:
+
+```
+cd /etc/nginx/sites-available
+sudo cp redirect_template [SUBDOMAIN].cspp.ie
+```
+
+When opening this new file in `nano` or `vim` (you will need to sudo), it will look like this:
+
+```nginx
+server {
+
+    server_name SUBDOMAIN.cspp.ie;
+
+    location / {
+
+    rewrite ^/(.*) https://google.com/bla redirect;
+
+    }
+
+    listen 80;
+
+}
+```
+
+Change the server_name to match the filename (aka the subdomain that will redirect), then update the `https://google.com/bla` with the COMPLETE URL that you wish to redirect users to.
+
+Once this is done, continue following the instructions below.
+
+### Enabling the Domain
 
 We use `sites-available` and `sites-enabled` in NGINX for our domain configs.
 
