@@ -26,6 +26,6 @@
   animation: logo 1000ms 1;
 }
 
-.md-typeset h2{
+.md-typeset {
   font-weight: 600;
 }
