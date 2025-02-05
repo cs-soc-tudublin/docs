@@ -1,7 +1,7 @@
 ---
 title: DNS
 created: 2024-07-06T00:00:00
-modified: 2024-10-10T11:16:06
+modified: 2025-02-05T20:45:43
 tags:
   - how-to
   - sysadmin
