@@ -1,7 +1,7 @@
 ---
 title: Ownership Table
 created: 2025-02-05T21:02:57
-modified: 2025-02-05T21:07:59
+modified: 2025-02-06T20:11:44
 tags:
   - sysadmin
   - ownership
@@ -9,7 +9,7 @@ tags:
 
 # Ownership Table
 
-This page contains the current list of Systems, Services & Objects and their respective 'Owner'. For the theory of 'Ownership', see [here](./index).
+This page contains the current list of Systems, Services & Objects and their respective 'Owner'. For the theory of 'Ownership', see [here](./).
 
 | Type    | Object                      | Owner       |
 | ------- | --------------------------- | ----------- |
