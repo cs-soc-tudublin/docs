@@ -49,45 +49,45 @@ We also sometimes use subdomains to make the lives of our members easier! The Di
 
 The `cspp.ie` domain is bought from [Smarthost](https://smarthost.ie/) and paid for annually. As of right now, it is in the name of Ruán Murgatroyd.
 
-We control our DNS records on [Contabo](https://contabo.com/).
+We control our DNS records using [Cloudflare](cloudflare.com). There are many options for this service, but cloudflare provides a lot of additional extras like DDOS protection and caching.
 
 # Adding a Subdomain
 
 !!! danger "BE REALLY CAREFUL!!!"
 
-	Changes to DNS can be potentially catastrophic to the society, and can cause long downtimes!
+	Changes to DNS can cause long downtimes!
 
-	Make sure you know exactly what you're doing, and don't touch anything you're not actively working on!
+	Make sure you know what you're doing, and don't touch anything you're not actively working on!
 
 	If possible, get a second set of eyes to go over everything you're doing!!!!
 
-First, navigate to [Contabo](https://contabo.com/) and log in with the CS++ account.
+1. Log in to [Cloudflare](https://dash.cloudflare.com/login/) with the CS++ account.
 
-Then navigate to `DNS Zone Management` and click the **NOTEBOOK AND PENCIL** icon beside `cspp.ie`
+2. Navigate to `DNS` through the sidebar
 
-Here you will see a list of all of our DNS info for `cspp.ie`, so let's add one!
+Here you'll see a list of all of our DNS info for `cspp.ie`. Let's add another!
 
-## Adding a DNS Record
+3. Click '+ Add record'
 
-In the form at the bottom, add the subdomain you'd like, let's use `test` as an example.
-
-Keep the rest of the form the same, and set the `Data` field to the IP Address you wish to point the domain at. Let's use [Huey Dewey Louie](../hardware/cloud/huey-dewey-louie.md) as an example, enter `158.220.114.253` in the `data` field.
+4. Enter the subdomain in the `Name` field and in the `Ipv4 address` field, put the IP Address of the server/computer you want to point at.
 
 **What Do These Fields Mean?**
 
-`name`: The subdomain name
+`Type`: The type of record. The simplest is an `A` record which translates a domain or subdomain to an IPv4 address. 
 
-`TTL`: Time-To-Live - How long the record will be stored by devices before they go and ask again for the data.
+`name`: The subdomain name. E.g. in `docs.cspp.ie`, `docs` is the subdomain. `@` refers to the 'root' or `cspp.ie` in this case.
 
-`Type`: The type of record, this can be subdomains, mail records, text records, etc.
+`Priority:` The priority, used for mail records only.
 
-`Priority:` The priority for mail records.
+`Data/IPv4 Address`: The data field. For `A` records this is the IPv4 address you want to point at.
 
-`Data`: The IP address / text record, etc.
+`TTL`: Time-To-Live - How long the record will be stored by DNS servers before they go and ask again for the data.
 
-Once you have filled out all the data, click `create record`.
+Learn more here: [Cloudflare Docs - What are DNS records?](https://www.cloudflare.com/en-gb/learning/dns/dns-records/).
 
-You have now created your first record, congrats! But right now, it's doing nothing. Going to `test.cspp.ie` will not show anything, or show a random service we are running.
+5. Once you have filled out all the data, click `save`.
+
+You have now created your first record, congrats! Right now it's pointing at a server, but the server doesn't respond with anything!
 
 ## Running a Service on the Subdomain
 
@@ -220,6 +220,8 @@ You can now navigate to the site, but it will warn about no certificate! We need
 ## Enabling HTTPS
 
 We use `certbot` from [Let's Encrypt](https://letsencrypt.org/) for free TLS (that means HTTPS) certificates!
+
+Before you get started, if you are adding a new root domain, e.g. for another society, you'll need to switch `SSL encryption mode` to `Full` for that domain on the cloudflare dashboard.
 
 Run the following:
 
