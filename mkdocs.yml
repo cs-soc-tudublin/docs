@@ -7,8 +7,8 @@ use_directory_urls: true
 
 theme:
   name: material
-  logo: res/roundel.svg
-  favicon: res/favicon.ico
+  logo: https://raw.githubusercontent.com/cs-soc-tudublin/IdentityFlip/refs/heads/master/assets/logos/roundel.png
+  favicon: https://raw.githubusercontent.com/cs-soc-tudublin/IdentityFlip/refs/heads/master/assets/logos/roundel.png
   icon:
     repo: fontawesome/brands/github
   features:
