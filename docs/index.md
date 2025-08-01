@@ -27,6 +27,6 @@ This is mostly intended for the sysadmins / core committee. But feel free to rea
 
 *Where should I start?*
 
-If you're looking to start from the very beginning, consider [**LAYER ZERO** - Servers, Server Components and Networking](layer-zero/index.md).
+If you're looking to start from the very beginning, consider [**LAYER ZERO** - Servers, Server Components and Networking](zero/index.md).
 
 Otherwise, browse around!
