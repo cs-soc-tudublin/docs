@@ -25,3 +25,15 @@
 .md-logo {
   animation: logo 1000ms 1;
 }
+
+h1 {
+  font-weight: black;
+}
+
+h2 {
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: bold;
+}

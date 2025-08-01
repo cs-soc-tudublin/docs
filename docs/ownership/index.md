@@ -1,7 +1,7 @@
 ---
 title: Area Ownership
 created: 2025-02-05T20:47:59
-modified: 2025-02-05T21:02:43
+modified: 2025-08-01T18:15:09
 tags:
   - sysadmin
   - committee
@@ -16,7 +16,7 @@ This area covers 'ownership' of CS++'s technical services.
 
 In CS++, 'Ownership' is the concept of one or more people managing a service, system or object.
 
-After a period of acclimatising themself to the system they own, the Owner should be able to set and find ways to achieve goals related to this system. For a service, this may be uptime or recoverability, for hardware, this may be power-redundancy.
+After a period of acclimatising themselves to the system they own, the Owner should be able to set and find ways to achieve goals related to this system. For a service, this may be uptime or recoverability, for hardware, this may be power-redundancy.
 
 Owners do not have to be experts on the system they own, but should instead be able to guide any growth or work related to the system.
 

@@ -1,12 +1,17 @@
 ---
 created: 2024-07-04T23:11:48
-modified: 2024-08-06T16:47:54
+modified: 2025-08-01T21:21:33
 ---
+
 # Home
 
 ## CS++ Docs
 
-Welcome to CS++'s documentation. This is to keep up to date information about the technical infrastructure of the society.
+Welcome to CS++'s documentation!
+
+This is where all of our public documentation relies.
+
+We write our docs along a 'layer' style. Each layer builds atop the ones below it to completely describe our infrastructure. Starting at the hardware layer, and finishing with 'Paving', how we deploy our services. This allows us to build a complete knowledge-base to train Sysadmins and support our members!
 
 !!! note "No Prior Knowledge Needed!"
 
@@ -18,6 +23,8 @@ Welcome to CS++'s documentation. This is to keep up to date information about th
 
 This is mostly intended for the sysadmins / core committee. But feel free to read up on how we roll.
 
-## Quick Links
+# For Committee, Sysadmins and the Curious
 
-- [CS++ Website](https://cspp.ie)
+Where should I start?
+
+[**LAYER ZERO** - Servers, Server Components and Networking](./layerZero/index.md).

@@ -1,7 +1,7 @@
 ---
 title: Development Vision
 created: 2024-08-12T18:05:26
-modified: 2024-08-12T18:17:44
+modified: 2025-08-01T17:51:54
 tags:
    - development
    - easy
@@ -47,12 +47,15 @@ Here are some suggested rules for CI/CD branch protection:
 
 - For core services (CS++ Bot, Website, etc.), should require a code review by someone who isn't the Pull Request owner
 - The following voters should also be added:
-	- SonarQube
 	- Spell Check
 	- Link Resolution
 	- File Resolution
 
+A 'voter' is a single GitHub Action which runs and 'votes' on whether or not this Pull Request should be merged. If it passes, that's a vote in favour, if it fails, that's a vote against.
+
 ## Testing
+
+In the industry, code is tested before it is merged into the main branch. This requires a lot of additional time to write tests and maintain them. So, while encouraged, this is not mandatory.
 
 We do not require any Unit or End-to-End tests on services, but there is no restriction on developing tests should you deem it necessary.
 

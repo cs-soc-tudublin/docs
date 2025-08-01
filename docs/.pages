@@ -1,9 +1,10 @@
 nav:
 
 - index.md
-- how-to
-- infrastructure
-- services
+- procedures
+- layer-one
+- layer-two
+- layer-three
 - development
 - ownership
 - contact.md
