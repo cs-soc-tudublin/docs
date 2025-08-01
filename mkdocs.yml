@@ -7,8 +7,8 @@ use_directory_urls: true
 
 theme:
   name: material
-  logo: res/roundel.svg
-  favicon: res/favicon.ico
+  logo: res/docs.png
+  favicon: res/docs.png
   icon:
     repo: fontawesome/brands/github
   features:
@@ -98,7 +98,7 @@ extra:
   analytics:
     provider: plausible
     domain: docs.cspp.ie
-    src: "https://plausible.io/js/script.js"
+    src: "https://plausible.cspp.ie/js/script.outbound-links.js"
     feedback:
       title: Was this page helpful?
       ratings:
