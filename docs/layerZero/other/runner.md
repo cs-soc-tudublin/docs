@@ -1,7 +1,7 @@
 ---
 title: Sysadmin Laptop
 created: 2025-07-07T17:15:13
-modified: 2025-08-01T18:36:20
+modified: 2025-08-01T18:44:54
 tags:
    - zero
 ---
@@ -29,12 +29,12 @@ The laptop can be taken off-site for events and transit, but may not be stored o
 
 Runner is a Dell Inspiron 7590 from ~2019, it is configured as such:
 
-| Item | Spec                         |
-| ---- | ---------------------------- |
-| CPU  | Intel i5-9300H               |
-| GPU  | NVIDIA GTX 1050 w/ 3GB GDDR5 |
-| RAM  | 1x 8GB DDR4 @ 2666MHz        |
-| SSD  | 256GB M.2 PCIe NVMe Drive    |
+| Item    | Spec                         |
+| ------- | ---------------------------- |
+| **CPU** | Intel i5-9300H               |
+| **GPU** | NVIDIA GTX 1050 w/ 3GB GDDR5 |
+| **RAM** | 1x 8GB DDR4 @ 2666MHz        |
+| **SSD** | 256GB M.2 PCIe NVMe Drive    |
 
 Runner does not have an RJ45 port, so to connect over Ethernet, you will need to bring an adapter.
 
