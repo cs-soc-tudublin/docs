@@ -1,6 +1,6 @@
 ---
 created: 2024-07-04T23:11:48
-modified: 2025-08-01T21:21:33
+modified: 2025-08-01T22:40:42
 ---
 
 # Home
@@ -25,6 +25,8 @@ This is mostly intended for the sysadmins / core committee. But feel free to rea
 
 ## For Committee, Sysadmins and the Curious
 
-Where should I start?
+*Where should I start?*
 
-[**LAYER ZERO** - Servers, Server Components and Networking](layer-zero/index.md).
+If you're looking to start from the very beginning, consider [**LAYER ZERO** - Servers, Server Components and Networking](layer-zero/index.md).
+
+Otherwise, browse around!

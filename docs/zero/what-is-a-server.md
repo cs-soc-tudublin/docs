@@ -1,7 +1,7 @@
 ---
 title: What is a Server?
 created: 2025-08-01T19:51:20
-modified: 2025-08-01T21:18:28
+modified: 2025-08-01T23:01:08
 tags:
    - zero
    - hardware
@@ -24,6 +24,6 @@ Servers are build with redundancy in mind and normally have multiple network con
 
 ## *What Next?*
 
-[What is in a server?](server-components.md)
+Want to learn more about servers? Find out [what is in a server?](server-components.md)
 
-[What is a Router?](./what-is-a-router.md)
+Curious about Networking instead? Start by asking [what is a Router?](./what-is-a-router.md)

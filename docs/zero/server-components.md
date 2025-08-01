@@ -1,7 +1,7 @@
 ---
 title: What is in a Server?
 created: 2025-08-01T20:19:04
-modified: 2025-08-01T21:19:51
+modified: 2025-08-01T22:56:46
 tags:
    - zero
    - hardware
@@ -16,7 +16,7 @@ Servers share most parts with other CPUs, but they're usually specialised to Ser
 
 ## CPU
 
-Servers regularly have anywhere from 1 to 4 CPUs, though can occasionally go higher (8 or even 16 CPUs). The motherboards in servers with multiple sockets are able to properly direct instructions and data to multiple CPUs.
+Servers regularly have anywhere from 1 to 2 CPUs, though occasionally go higher. The motherboards in servers with multiple sockets are able to properly direct instructions and data to multiple CPUs.
 
 Server-grade CPUs are normally on-par with consumer-grade CPUs, but make up for it when it comes to Core and Thread count. For example, [`Mallard`](servers/mallard.md) has 2 CPUs, each with 24 cores and 48 threads. That's 96 threads in a single server!
 
@@ -80,10 +80,4 @@ If it ain't broke, don't fix it!
 
 ## *What Next?*
 
-Check out our servers and their specs:
-
-- [Mallard](servers/mallard.md)
-- [Ruddy](servers/ruddy.md)
-- [Pancakes](servers/pancakes.md)
-- [Muscoy](servers/muscovy.md)
-Or, [what is a router?](./what-is-a-router.md)
+[How do we *spec* a server?](./server-specs.md)
