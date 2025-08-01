@@ -1,10 +1,10 @@
 nav:
 - index.md
 - procedures
-- zero
-- one
-- two
-- three
+- Layer Zero: zero
+- Layer One: one
+- Layer Two: two
+- Layer Three: three
 - development
 - ownership
 - contact.md

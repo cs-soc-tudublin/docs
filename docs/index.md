@@ -23,7 +23,7 @@ We write our docs along a 'layer' style. Each layer builds atop the ones below i
 
 This is mostly intended for the sysadmins / core committee. But feel free to read up on how we roll.
 
-# For Committee, Sysadmins and the Curious
+## For Committee, Sysadmins and the Curious
 
 Where should I start?
 
