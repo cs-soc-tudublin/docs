@@ -1,7 +1,7 @@
 ---
 title: Joining the Committee (Infrastructure)
 created: 2024-07-06T00:00:00
-modified: 2024-08-06T16:47:54
+modified: 2025-08-01T18:36:42
 tags:
   - how-to
   - easy
@@ -9,7 +9,7 @@ tags:
   - committee
 ---
 
-# *How To:* Joining the Committee - Infrastructure
+# **HOW TO:** Joining the General Committee - Infrastructure
 
 (This document is designed to be used by incoming CS++ Committee, if you're not that, you don't need to read it!)
 
@@ -99,7 +99,7 @@ Okay, what do you *really* do next?
 
 Go to one of the Sysadmins, and send them two things:
 
-- A username you want to go by
+- A username you want to go by (If you haven't already given one)
 - Your public key (That's the file with the `.pub` file type!)
 
 The Sysadmin will then go somewhere, [do funny magic](./add-a-user.md), and let you know you can connect to CS++ services, ain't that just neat!

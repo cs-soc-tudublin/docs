@@ -1,14 +1,14 @@
 ---
 title: Useful Commands
 created: 2024-07-07T00:00:00
-modified: 2024-08-06T16:47:54
+modified: 2025-08-01T18:36:32
 tags:
   - how-to
   - easy
   - sysadmin
 ---
 
-# *How To*: Use Some Useful Commands
+# **HOW TO:** Use Some Useful Commands
 
 This doc will go over certain useful commands you may use on the infrastructure.
 
@@ -71,6 +71,6 @@ sudo shutdown -r now
 
 You will be instantly disconnected as the server shuts down and restarts.
 
-A restart may take a few minutes, so do be patient!
+A restart will take a few minutes, so be patient!
 
 !!! note "After a restart, follow the [restart / unexpected shutdown checklist](./power-loss-checklist.md)!"
