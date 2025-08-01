@@ -27,4 +27,4 @@ This is mostly intended for the sysadmins / core committee. But feel free to rea
 
 Where should I start?
 
-[**LAYER ZERO** - Servers, Server Components and Networking](./layerZero/index.md).
+[**LAYER ZERO** - Servers, Server Components and Networking](layer-zero/index.md).
