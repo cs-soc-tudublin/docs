@@ -20,4 +20,4 @@ It includes common tasks you might need to complete on the hardware, such as rac
 
 **Where do I start?**
 
-Well, the first question you should get the answer to is *[what is a server?](./what-is-a-server.md)*
+Well, the first question you should get the answer to is *[what is a server?](what-is-a-server.md)*

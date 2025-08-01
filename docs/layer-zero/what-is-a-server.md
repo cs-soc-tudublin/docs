@@ -24,6 +24,6 @@ Servers are build with redundancy in mind and normally have multiple network con
 
 ## *What Next?*
 
-[What is in a server?](./server-components.md)
+[What is in a server?](server-components.md)
 
 [What is a Router?](./what-is-a-router.md)
