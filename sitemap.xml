@@ -2,106 +2,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.cspp.ie/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/contact/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.cspp.ie/docs-vision/</loc>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/development/dev-vision/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/layer-one/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/layer-three/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/layer-two/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/one/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/ownership/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/ownership/ownership-table/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/joining-committee/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/onboarding-committee/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/onboarding-sysadmins/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/useful-commands/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/three/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/server-components/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/server-specs/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/what-is-a-router/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/what-is-a-server/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.cspp.ie/zero/what-is-a-switch/</loc>
+         <lastmod>2025-08-02</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.cspp.ie/zero/networking/udm-se/</loc>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/other/runner/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/servers/mallard/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/servers/muscovy/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/servers/pancakes/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/servers/ruddy/</loc>
-         <lastmod>2025-08-01</lastmod>
+         <lastmod>2025-08-02</lastmod>
     </url>
 </urlset>
