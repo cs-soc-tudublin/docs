@@ -1,13 +1,13 @@
 ---
 title: Dell R630
 created: 2025-07-07T17:15:13
-modified: 2025-08-01T19:27:47
+modified: 2025-08-02T11:01:47
 tags:
   - zero
   - server
 ---
 
-# **Pancakes** - One of Three
+# **PANCAKES** - One of Three
 
 `Pancakes` is a Dell R630 and was one of 3 identical servers donated by SIG in 2024.
 

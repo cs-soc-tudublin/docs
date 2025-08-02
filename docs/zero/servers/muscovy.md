@@ -7,7 +7,7 @@ tags:
   - server
 ---
 
-# **Muscovy** - One of Three
+# **MUSCOVY** - One of Three
 
 `Muscovy` is a Dell R630 and was one of 3 identical servers donated by SIG in 2024.
 

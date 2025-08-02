@@ -1,6 +1,6 @@
 ---
 created: 2024-07-04T23:11:48
-modified: 2025-08-01T22:40:42
+modified: 2025-08-02T23:04:50
 ---
 
 # Home
@@ -28,5 +28,7 @@ This is mostly intended for the sysadmins / core committee. But feel free to rea
 *Where should I start?*
 
 If you're looking to start from the very beginning, consider [**LAYER ZERO** - Servers, Server Components and Networking](zero/index.md).
+
+Or, if you're curious on our approach to writing our docs, you can read that [here](./docs-vision.md)
 
 Otherwise, browse around!

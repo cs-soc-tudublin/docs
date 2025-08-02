@@ -1,13 +1,13 @@
 ---
 title: Dell R630
 created: 2025-07-07T17:15:13
-modified: 2025-08-01T19:27:53
+modified: 2025-08-02T11:01:53
 tags:
   - zero
   - server
 ---
 
-# **Ruddy** - One of Three
+# **RUDDY** - One of Three
 
 `Ruddy` is a Dell R630 and was one of 3 identical servers donated by SIG in 2024.
 
