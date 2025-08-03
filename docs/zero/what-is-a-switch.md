@@ -1,7 +1,7 @@
 ---
 title: What is a Switch?
 created: 2025-08-02T14:26:49
-modified: 2025-08-02T14:48:22
+modified: 2025-08-03T18:13:54
 tags:
    - zero
    - networking
@@ -17,6 +17,9 @@ Switches can be configured to control what IPs devices are given, their communic
 
 # *What next?*
 
-Find out about [our routers.](./networking/48pro.md)
+Find out about our switches:
+
+- [Shakedog](networking/shakedog.md)
+- [Five Guys](./networking/fiveguys.md)
 
 Or, find the answer to [what is a UPS?](./what-is-a-ups.md)

@@ -1,10 +1,11 @@
 ---
 title: Dream Machine
 created: 2025-08-02T11:01:26
-modified: 2025-08-02T14:08:15
+modified: 2025-08-03T18:13:18
 tags:
-   - zero
-   - networking
+  - zero
+  - hardware
+  - networking
 ---
 
 # **SUPERMACS** - Our Router
@@ -23,3 +24,5 @@ Specs:
 | Secondary WAN Port | 1x 10Gb/s SFP+ port (10)                                |
 | RJ45 Ports         | 2x 1Gb/s PoE+ ports (1, 2) & 6x 1Gb/s PoE ports (3 - 8) |
 | SFP+ Ports         | 1x 10Gb/s SFP+ port (11)                                |
+| Switching Layer    | Layer 3 - Network                                       |
+| Firewall Layer     | Layer 7 - Application                                   |

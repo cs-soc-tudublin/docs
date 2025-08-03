@@ -3,8 +3,9 @@ title: Dell R750xs
 created: 2025-07-07T17:15:13
 modified: 2025-08-01T19:00:49
 tags:
-   - zero
-   - server
+  - zero
+  - hardware
+  - server
 ---
 
 # **MALLARD** - Our Workhorse

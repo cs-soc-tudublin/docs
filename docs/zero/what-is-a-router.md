@@ -19,6 +19,6 @@ The router will allow you to forward ports to devices on the network, allowing y
 
 ## *What Next?*
 
-Learn about [our router](./networking/udm-se.md).
+Learn about [our router](networking/supermacs.md).
 
 Or ask [what is a switch?](./what-is-a-switch.md)
