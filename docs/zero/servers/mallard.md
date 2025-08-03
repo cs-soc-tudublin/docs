@@ -1,7 +1,7 @@
 ---
 title: Dell R750xs - Mallard
 created: 2025-07-07T17:15:13
-modified: 2025-08-03T18:29:32
+modified: 2025-08-03T18:30:10
 tags:
   - zero
   - hardware
@@ -26,9 +26,9 @@ It's unique specs are as follows:
 | ---------------- | ------------------------------------------ | ------------------------------------------ |
 | **CPU**          | 2x Intel Xeon Gold 5318Y @ 2.1GHz - 3.4GHz | 24 Cores, 48 Threads, 36MB Cache, 165W TDP |
 | **RAM**          | 8x 32GB DDR4 @ 3200MT/s Sticks             | All from Micron, but mixed sticks          |
-| **OS Storage**   | 800GB SAS 2.5" HDD                         | Sl                                         |
-| **Storage**      | 2x 2.4TB SAS 2.5" HDD                      | Slots 2                                    |
+| **OS Storage**   | 800GB SAS 2.5" HDD                         | Slot 1                                     |
+| **Storage**      | 2x 2.4TB SAS 2.5" HDD                      | Slots 2, Slot 4                            |
 | **iDRAC**        | Yes, iDRAC 9                               |                                            |
 | **PSU**          | 2x 1100W 80 Plus Titanium                  |                                            |
-| **NIC**          | Broadcom 57412 OCP NIC 3.0                 | 2x 1                                       |
-| **On-Board NIC** | Broadcom 5720 On-Board LOM                 | 2x                                         |
+| **NIC**          | Broadcom 57412 OCP NIC 3.0                 | 2x 1Gb/s RJ45                              |
+| **On-Board NIC** | Broadcom 5720 On-Board LOM                 | 2x 10Gb/s SFP+                             |

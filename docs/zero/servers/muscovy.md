@@ -1,7 +1,7 @@
 ---
 title: Dell R630 -  Muscovy
 created: 2025-07-07T17:15:13
-modified: 2025-08-03T18:29:18
+modified: 2025-08-03T18:30:19
 tags:
   - zero
   - hardware
@@ -20,13 +20,12 @@ Dell is great at keeping records, and going to the Dell Support webpage, you can
 
 It's unique specs are as follows:
 
-| **Item**         | **Spec**                                  | **Additional Details**                     |
-| ---------------- | ----------------------------------------- | ------------------------------------------ |
-| **CPU**          | 2x Intel Xeon E2687W V3 @ 3.1GHz - 3.5GHz | 10 Cores, 20 Threads, 25MB Cache, 160W TDP |
-| **RAM**          | 8x 16GB DDR4 @ 2133/s Sticks              | From Dell                                  |
-| **OS Storage**   | 300GB SAS 2.5" HDD @ 15,000RPM            | Slot 1                                     |
-| **Storage**      | 1x 2.4TB SAS 2.5" HDD                     | Slot 2                                     |
-| **iDRAC**        | Yes, iDRAC 8                              |                                            |
-| **PSU**          | 2x 750W 80 Plus Platinum                  |                                            |
-| **NIC**          | Intel X520                                | 2x 10Gb SFP+, 2x 1Gb RJ45                  |
-| **On-Board NIC** | Broadcom 5720 On-Board LOM                |                                            |
+| **Item**       | **Spec**                                  | **Additional Details**                     |
+| -------------- | ----------------------------------------- | ------------------------------------------ |
+| **CPU**        | 2x Intel Xeon E2687W V3 @ 3.1GHz - 3.5GHz | 10 Cores, 20 Threads, 25MB Cache, 160W TDP |
+| **RAM**        | 8x 16GB DDR4 @ 2133/s Sticks              | From Dell                                  |
+| **OS Storage** | 300GB SAS 2.5" HDD @ 15,000RPM            | Slot 1                                     |
+| **Storage**    | 1x 2.4TB SAS 2.5" HDD                     | Slot 2                                     |
+| **iDRAC**      | Yes, iDRAC 8                              |                                            |
+| **PSU**        | 2x 750W 80 Plus Platinum                  |                                            |
+| **NIC**        | Intel X520                                | 2x 10Gb SFP+, 2x 1Gb RJ45                  |

@@ -1,7 +1,7 @@
 ---
 title: Dell R630 - Pancakes
 created: 2025-07-07T17:15:13
-modified: 2025-08-03T18:29:22
+modified: 2025-08-03T18:30:23
 tags:
   - zero
   - hardware
@@ -29,4 +29,3 @@ It's unique specs are as follows:
 | **iDRAC**        | Yes, iDRAC 8                              |                                            |
 | **PSU**          | 2x 750W 80 Plus Platinum                  |                                            |
 | **NIC**          | Intel X520                                | 2x 10Gb SFP+, 2x 1Gb RJ45                  |
-| **On-Board NIC** | Broadcom 5720 On-Board LOM                |                                            |
