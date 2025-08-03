@@ -65,4 +65,4 @@ Learn about our own UPS, [Minecraft](other/minecraft.md)
 
 Or learn about the Ubiquiti RPS, [Bunsen](networking/bunsen.md)
 
-This is the end of the **WHAT IS?** section of Layer Zero. You can go on to check [Layer Zero Procedures](./procedures/index.md) for regularly maintenance and tasks you do at a hardware level. Or take the next step into [**LAYER TWO** - Operating Systems and Storage](../two/index.md)!
+This is the end of the **WHAT IS?** section of Layer Zero. You can go on to check [Layer Zero Procedures](./procedures/index.md) for regularly maintenance and tasks you do at a hardware level. Or take the next step into [**LAYER ONE** - Operating Systems and Storage](../one/index.md)!
