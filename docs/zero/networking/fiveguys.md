@@ -1,5 +1,5 @@
 ---
-title: Five Guys
+title: Pro 48 - Five Guys
 created: 2025-08-03T18:05:35
 modified: 2025-08-03T18:14:53
 tags:

@@ -1,7 +1,7 @@
 ---
-title: Dell R630
+title: Dell R630 -  Muscovy
 created: 2025-07-07T17:15:13
-modified: 2025-08-01T19:47:24
+modified: 2025-08-03T18:29:18
 tags:
   - zero
   - hardware

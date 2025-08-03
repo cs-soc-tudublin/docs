@@ -1,5 +1,5 @@
 ---
-title: Dell R630
+title: Dell R630 - Ruddy
 created: 2025-07-07T17:15:13
 modified: 2025-08-03T17:54:46
 tags:

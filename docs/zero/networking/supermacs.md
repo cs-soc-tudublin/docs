@@ -1,7 +1,7 @@
 ---
-title: Dream Machine
+title: Dream Machine Special Edition
 created: 2025-08-02T11:01:26
-modified: 2025-08-03T18:13:18
+modified: 2025-08-03T18:29:05
 tags:
   - zero
   - hardware

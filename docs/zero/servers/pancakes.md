@@ -1,7 +1,7 @@
 ---
-title: Dell R630
+title: Dell R630 - Pancakes
 created: 2025-07-07T17:15:13
-modified: 2025-08-02T11:01:47
+modified: 2025-08-03T18:29:22
 tags:
   - zero
   - hardware

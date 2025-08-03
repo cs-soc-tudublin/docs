@@ -1,11 +1,11 @@
 ---
-title: Shake Dog
+title: Pro 48 - Shake Dog
 created: 2025-08-03T18:05:35
-modified: 2025-08-03T18:11:55
+modified: 2025-08-03T18:28:58
 tags:
-   - zero
-   - hardware
-   - networking
+  - zero
+  - hardware
+  - networking
 ---
 
 # **SHAKE DOG** - One of Two Switches
