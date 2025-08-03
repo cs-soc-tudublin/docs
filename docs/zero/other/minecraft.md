@@ -1,7 +1,7 @@
 ---
-title: Minecraft
+title: UPS - Minecraft
 created: 2025-08-03T17:36:50
-modified: 2025-08-03T17:48:13
+modified: 2025-08-03T18:31:03
 tags:
   - zero
   - hardware
