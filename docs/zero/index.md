@@ -1,11 +1,8 @@
 ---
 title: Layer Zero - Networking, Servers & Components
 created: 2025-08-01T17:43:01
-modified: 2025-08-03T17:08:55
-tags:
-   - zero
-   - hardware
-   - networking
+modified: 2025-09-02T17:08:01
+tags: [zero, hardware, networking]
 ---
 
 # **LAYER ZERO** - Networking, Servers, and Their Components

@@ -246,7 +246,7 @@
   "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": false,
-  "lintOnFileChange": false,
+  "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [

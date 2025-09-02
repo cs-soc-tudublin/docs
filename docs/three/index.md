@@ -1,7 +1,7 @@
 ---
 title: Layer Three
 created: 2025-08-01T18:09:51
-modified: 2025-08-01T18:13:38
+modified: 2025-09-02T17:08:01
 tags:
    - three
    - infrastructure-as-code

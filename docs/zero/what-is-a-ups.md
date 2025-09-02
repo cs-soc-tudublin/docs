@@ -1,7 +1,7 @@
 ---
 title: What is a UPS?
 created: 2025-08-03T17:09:24
-modified: 2025-08-03T17:36:24
+modified: 2025-09-02T17:08:01
 tags:
    - zero
    - hardware

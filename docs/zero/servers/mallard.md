@@ -1,7 +1,7 @@
 ---
 title: Dell R750xs - Mallard
 created: 2025-07-07T17:15:13
-modified: 2025-08-03T18:30:10
+modified: 2025-09-02T17:08:01
 tags:
   - zero
   - hardware

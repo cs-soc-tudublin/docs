@@ -1,7 +1,7 @@
 ---
 title: What is in a Server?
 created: 2025-08-01T20:19:04
-modified: 2025-08-01T22:56:46
+modified: 2025-09-02T17:08:01
 tags:
    - zero
    - hardware

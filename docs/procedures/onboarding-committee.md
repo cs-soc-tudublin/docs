@@ -1,7 +1,8 @@
 ---
 created: 2025-08-01T18:29:53
-modified: 2025-08-01T18:36:30
+modified: 2025-09-02T17:08:01
 ---
+
 1. Fill out committee registration
 2. Add to Socs Portal as Committee
 3. Give Committee role on Discord

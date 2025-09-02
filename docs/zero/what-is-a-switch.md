@@ -1,7 +1,7 @@
 ---
 title: What is a Switch?
 created: 2025-08-02T14:26:49
-modified: 2025-08-03T18:13:54
+modified: 2025-09-02T17:08:01
 tags:
    - zero
    - networking

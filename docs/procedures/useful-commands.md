@@ -1,7 +1,7 @@
 ---
 title: Useful Commands
 created: 2024-07-07T00:00:00
-modified: 2025-08-01T18:36:32
+modified: 2025-09-02T17:08:01
 tags:
   - how-to
   - easy

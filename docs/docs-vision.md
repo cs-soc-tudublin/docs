@@ -1,7 +1,7 @@
 ---
 title: CS++'s Approach to Docs
 created: 2025-08-02T23:05:05
-modified: 2025-08-02T23:50:26
+modified: 2025-09-02T17:08:01
 tags:
    - meta
 ---

@@ -1,7 +1,7 @@
 ---
 title: What is a Router
 created: 2025-08-02T11:02:38
-modified: 2025-08-02T14:34:50
+modified: 2025-09-02T17:08:01
 tags:
    - zero
    - networking
