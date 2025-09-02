@@ -1,7 +1,7 @@
 ---
 title: Connecting to VaultWarden
 created: 2025-09-02T17:07:23
-modified: 2025-09-02T17:15:59
+modified: 2025-09-02T17:18:27
 tags:
    - procdure
    - committee
@@ -13,7 +13,7 @@ At CS++, we self-host our own password manager using the secure and open-source 
 
 This allows us a secure, single location to store all password for all accounts used by the soc, and control account access based on committee role.
 
-!!! "NOT FOR PERSONAL USE!"
+!!! danger "NOT FOR PERSONAL USE!"
 
 	The VaultWarden is configured to not let you save your own passwords.
 
