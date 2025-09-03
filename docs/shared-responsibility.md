@@ -1,7 +1,7 @@
 ---
 title: Shared Responsibility Model
 created: 2025-09-02T19:05:42
-modified: 2025-09-02T21:42:55
+modified: 2025-09-02T21:57:40
 tags:
    - universal
    - policy
@@ -13,11 +13,13 @@ tags:
 
 This page outlines the responsibility model that CS++ takes when hosting services for others.
 
-We want to make it as easy as possible for you to make and host great things that give students invaluable experience and benefit. But we also cannot be expected to maintain every service that you may wish to run.
+We want to make it as easy as possible for you to make and host great things that give students invaluable experience and benefit. But we also cannot be expected to maintain every service that you may wish to run. We are also volunteers and cannot be expected to run like a commercial cloud provider.
 
 In short, CS++ is responsible for the hardware and software that makes hosting services possible. You are responsible for the services you run on CS++'s infrastructure.
 
 You are not allowed to run services which break the law, are defamatory, violate academic integrity or otherwise damage the reputation of the university. This list of 'do nots' is not exhaustive, please see below.
+
+CS++ reserves the right to remove services they deem in violation of the policies. CS++ also reserves the right to modify responsibilities on a case-by-case basis.
 
 ## **TERMS** - Relevant Words and Phrases
 
