@@ -13,5 +13,5 @@ tags:
 Sends a notification to a Games Societies Discord when an email is received/sent from a Gmail account
 
 
-Hosted on [Dewey](docs/two/vms/dewey.md)
+Hosted on [Dewey](../../vms/dewey.md)
 

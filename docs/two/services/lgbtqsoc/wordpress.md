@@ -16,5 +16,5 @@ tags:
 - Allows LGBTQ+ Society to customize the website independently
 
 
-Hosted on [Wordpress](docs/two/vms/wordpress.md)
+Hosted on [Wordpress](../../vms/wordpress.md)
 

@@ -13,4 +13,4 @@ tags:
 Our reverse proxy service
 
 
-Hosted on [Golem](docs/two/vms/golem.md)
+Hosted on [Golem](../../vms/golem.md)

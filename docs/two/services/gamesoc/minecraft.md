@@ -14,7 +14,7 @@ This is a server at mc.gamesoc.ie
 The server is also joinable through bedrock clients using port 19132
 The map is hosted at [map.gamesoc.ie](https://map.gamesoc.ie)
 
-**Plugins** - These files are hosted locally at [files.int.cspp](docs/two/services/cs++/zipline.md). They are downloaded through the docker compose at a static link. You only need to update the hosted files url, when updating. Adding/removing plugins requires an edit of the docker-compose
+**Plugins** - These files are hosted locally at [files.int.cspp](../cs++/zipline.md). They are downloaded through the docker compose at a static link. You only need to update the hosted files url, when updating. Adding/removing plugins requires an edit of the docker-compose
 - Bluemap
 - CoreProtect
 - DiscordSRV
@@ -37,4 +37,4 @@ The map is hosted at [map.gamesoc.ie](https://map.gamesoc.ie)
 - Worldguard
 
 
-Hosted on [Dewey](docs/two/vms/dewey.md)
+Hosted on [Dewey](../../vms/dewey.md)

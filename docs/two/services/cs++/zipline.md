@@ -20,4 +20,4 @@ Link: files.int.cspp
 - Folders/Tags
 
 
-Hosted on [Huey](docs/two/vms/huey.md)
+Hosted on [Huey](../../vms/huey.md)

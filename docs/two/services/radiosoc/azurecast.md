@@ -22,4 +22,4 @@ tags:
 - Detailed Analytics and Reports
 
 
-Hosted on [Launchpad McQuack](docs/two/vms/launchpad-mcquack.md)
+Hosted on [Launchpad McQuack](../../vms/launchpad-mcquack.md)

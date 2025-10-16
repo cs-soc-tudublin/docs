@@ -21,4 +21,4 @@ Plume is our website, forked from [RedBrick's Atlas ](https://github.com/redbric
 - Sponsors list
 - Spellcheck & test build PR actions
 
-Hosted on [Huey](docs/two/vms/huey.md)
+Hosted on [Huey](../../vms/huey.md)
