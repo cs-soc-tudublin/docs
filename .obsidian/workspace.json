@@ -11,8 +11,14 @@
             "id": "a488c2b0a8b2d918",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/two/services/cs++/zipline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zipline"
             }
           }
         ]
@@ -34,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/two/services/gamesoc/minecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for minecraft"
             }
           },
           {
@@ -97,9 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/two/services/gamesoc/minecraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from minecraft"
             }
           },
           {
@@ -109,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +141,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/two/services/gamesoc/minecraft.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of minecraft"
             }
           }
         ]
@@ -130,53 +160,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9457eddbea65d6cd",
+  "active": "a488c2b0a8b2d918",
   "lastOpenFiles": [
+    "docs/zero/other/minecraft.md",
+    "docs/two/vms/golem.md",
+    "docs/two/vms/dewey.md",
+    "docs/two/services/cs++/nginx.md",
+    "docs/two/services/cs++/zipline.md",
+    "docs/ownership/ownership-table.md",
+    "docs/two/services/photosoc/wordpress.md",
+    "docs/two/services/lgbtqsoc/wordpress.md",
+    "docs/two/services/radiosoc/azurecast.md",
+    "docs/two/vms/launchpad-mcquack.md",
+    "docs/two/services/gamesoc/minecraft.md",
+    "docs/two/services/gamesoc/gmail-bot.md",
+    "docs/two/services/cs++/plume.md",
+    "docs/ownership/index.md",
+    "docs/two/vms/wordpress.md",
+    "docs/two/vms/huey.md",
+    "docs/two/vms/heuy.md",
+    "docs/two/services/cs++/files.int.cspp.md",
+    "docs/two/index.md",
+    "docs/one/what-is-an-os.md",
+    "docs/one/what-is-a-vm.md",
+    "docs/one/what-is-a-container.md",
+    "docs/zero/server-components.md",
+    "docs/two/services/radiosoc",
+    "docs/two/vms/wordpress",
+    "docs/two/vms/golem",
+    "docs/two/vms/launchpad-mcquack",
+    "docs/two/vms/dewey",
+    "docs/two/services/lgbtqsoc",
+    "docs/two/services/photosoc",
+    "docs/two/services/gamesoc",
+    "Untitled.base",
+    "docs/two/vms",
     "hardware/huey-dewey-louie.md",
-    "requirements.txt",
-    "mkdocs.yml",
-    "hardware",
     "docs/res/docs_res/vps_controls.webp",
     "docs/res/docs_res/contabo.webp",
     "docs/infrastructure/cloud/huey-dewey-louie.md",
-    "docs/stylesheets/extra.css",
     "docs/services/vaultwarden.md",
-    "docs/services/starboard.md",
-    "docs/services/plume.md",
-    "docs/services/morningbot.md",
-    "docs/services/mkdocs.md",
-    "docs/services/hedgedoc.md",
-    "docs/services/eveningbot.md",
-    "docs/services/bithunt.md",
-    "docs/res/roundel.svg",
-    "docs/res/favicon.ico",
-    "docs/res/docs_res",
-    "docs/overrides/main.html",
-    "docs/infrastructure/index.md",
-    "docs/infrastructure/cloud",
-    "docs/how-to/useful-commands.md",
-    "docs/how-to/ssh.md",
-    "docs/how-to/power-loss-checklist.md",
-    "docs/how-to/joining-committee.md",
-    "docs/how-to/index.md",
-    "docs/how-to/faq.md",
-    "docs/how-to/dns.md",
-    "docs/how-to/contabo.md",
-    "docs/how-to/add-a-user.md",
-    "docs/how-to/add-a-service.md",
-    "docs/tags.md",
-    "docs/stylesheets",
-    "docs/services",
-    "docs/index.md",
-    "docs/contact.md",
-    "README.md"
+    "docs/res/roundel.svg"
   ]
 }

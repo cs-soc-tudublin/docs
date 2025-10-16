@@ -7,7 +7,6 @@ tags:
   - services
   - cspp
 ---
-
 # **PLUME** - Our Website
 
 [**REPO**](https://github.com/cs-soc-tudublin/plume)
@@ -21,3 +20,5 @@ Plume is our website, forked from [RedBrick's Atlas ](https://github.com/redbric
 - Committee list
 - Sponsors list
 - Spellcheck & test build PR actions
+
+Hosted on [Huey](docs/two/vms/huey.md)

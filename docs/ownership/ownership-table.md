@@ -31,7 +31,7 @@ This page contains the current list of Systems, Services & Objects and their res
 | Architecture            | Ruán       |
 | Security                | Ruán       |
 | DNS & NGINX             | Ruán       |
-| Physical Infrastructure | Unassigned |
+| Physical Infrastructure | Daniel     |
 | Backups                 | Unassigned |
 | Networking              | Unassigned |
 
@@ -49,8 +49,11 @@ This page contains the current list of Systems, Services & Objects and their res
 
 ## Non-CS++ Topics
 
-| **Group**    | **Object**                                                | **Owner**  |
-| ------------ | --------------------------------------------------------- | ---------- |
-| game_dev_soc | [EveningBot](../two/services/game-dev-soc/eveningbot.md)  | Unassigned |
-| Game Soc     | [Minecraft Server](../two/services/game-soc/minecraft.md) | Unassigned |
-| Game Soc     | [Gmail Bot](../two/services/game-soc/gmail-bot.md)        | Unassigned |
+| **Group**    | **Object**                                                 | **Owner**  |
+| ------------ | ---------------------------------------------------------- | ---------- |
+| game_dev_soc | [EveningBot](../two/services/game-dev-soc/eveningbot.md)   | Unassigned |
+| Game Soc     | [Minecraft Server](docs/two/services/gamesoc/minecraft.md) | Daniel     |
+| Game Soc     | [Gmail Bot](docs/two/services/gamesoc/gmail-bot.md)        | Daniel     |
+| LGBTQ Soc    | [Queery](docs/two/services/lgbtqsoc/wordpress.md)          | Unassigned |
+| Radio Soc    | [Azurecast](../two/services/radiosoc/azurecast.md)         | Unassigned |
+| Photo Soc    | [Website](docs/two/services/photosoc/wordpress.md)         | Unassigned |
