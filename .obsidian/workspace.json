@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/two/services/cs++/zipline.md",
+                "file": "docs/two/services/photosoc/wordpress.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "zipline"
+              "title": "wordpress"
             }
           }
         ]
@@ -172,17 +172,17 @@
   },
   "active": "a488c2b0a8b2d918",
   "lastOpenFiles": [
+    "docs/two/services/lgbtqsoc/wordpress.md",
+    "docs/two/services/photosoc/wordpress.md",
+    "docs/two/services/gamesoc/minecraft.md",
+    "docs/two/services/cs++/zipline.md",
     "docs/zero/other/minecraft.md",
     "docs/two/vms/golem.md",
     "docs/two/vms/dewey.md",
     "docs/two/services/cs++/nginx.md",
-    "docs/two/services/cs++/zipline.md",
     "docs/ownership/ownership-table.md",
-    "docs/two/services/photosoc/wordpress.md",
-    "docs/two/services/lgbtqsoc/wordpress.md",
     "docs/two/services/radiosoc/azurecast.md",
     "docs/two/vms/launchpad-mcquack.md",
-    "docs/two/services/gamesoc/minecraft.md",
     "docs/two/services/gamesoc/gmail-bot.md",
     "docs/two/services/cs++/plume.md",
     "docs/ownership/index.md",

@@ -6,7 +6,8 @@ tags:
   - lgbtqsoc
   - services
 ---
-# **Queery** - LGBTQ+ Societies Website https://www.thequeerytudublin.com/
+# **Queery** - LGBTQ+ Societies Website 
+[https://www.thequeerytudublin.com/](https://www.thequeerytudublin.com/)
 
 [SITE](https://wordpress.com/)
 [HOWTO](https://developer.wordpress.org/advanced-administration/)
