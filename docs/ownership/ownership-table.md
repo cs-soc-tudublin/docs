@@ -10,20 +10,6 @@ tags:
 # Ownership Table
 
 This page contains the current list of Systems, Services & Objects and their respective 'Owner'. For the theory of 'Ownership', see [here](./index.md).
-
-| Object                                             | Owner      |
-| -------------------------------------------------- | ---------- |
-| Architecture                                       | Ruán       |
-| Security                                           | Ruán       |
-| DNS                                                | Ruán       |
-| Physical Infrastructure                            | Unassigned |
-| [Vaultwarden](../two/services/cs++/vaultwarden.md) | Ruán       |
-| [Plume](../two/services/cs++/plume.md)             | Dáithí     |
-| EveningBot                                         | Unassigned |
-| MorningBot                                         | Unassigned |
-| [Plausible](../two/services/cs++/plausible.md)     | Unassigned |
-|                                                    |            |
-
 ## General Topics
 
 | **Object**              | **Owner**  |
@@ -34,24 +20,31 @@ This page contains the current list of Systems, Services & Objects and their res
 | Physical Infrastructure | Daniel     |
 | Backups                 | Unassigned |
 | Networking              | Unassigned |
+| Updating VMs & Infra    | Unassigned |
 
 ## CS++ Topics
 
 | **Object**                                         | **Owner**  |
 | -------------------------------------------------- | ---------- |
 | [Plume](../two/services/cs++/plume.md)             | Dáithí     |
-| [MorningBot](../two/services/cs++/morningbot.md)   | Unassigned |
+| [MorningBot](../two/services/cs++/morningbot.md)   | MJ         |
 | [VaultWarden](../two/services/cs++/vaultwarden.md) | Ruán       |
-| [Plausible](../two/services/cs++/plausible.md)     | Unassigned |
-| [Grafana](../two/services/cs++/grafana.md)         | Unassigned |
-| [InfluxDB](../two/services/cs++/influxdb.md)       | Unassigned |
-| [Admin VPN](../two/services/cs++/vpn.md)           | Unassigned |
+| [Plausible](../two/services/cs++/plausible.md)     | Dáithí     |
+| [Grafana](../two/services/cs++/grafana.md)         | Daniel     |
+| [InfluxDB](../two/services/cs++/influxdb.md)       | Daniel     |
+| [Admin VPN](../two/services/cs++/vpn.md)           | Ruán       |
+| Dozzle                                             | Daniel     |
+| Zipline                                            | Daniel     |
+| Homepage                                           | Unassigned |
+| Netbox                                             | Ruán       |
+| BitHunt                                            | Ruán       |
+| WatchTower (To Replace w/ WUD)                     | MJ         |
 
 ## Non-CS++ Topics
 
 | **Group**    | **Object**                                                 | **Owner**  |
 | ------------ | ---------------------------------------------------------- | ---------- |
-| game_dev_soc | [EveningBot](../two/services/game-dev-soc/eveningbot.md)   | Unassigned |
+| game_dev_soc | [EveningBot](../two/services/game-dev-soc/eveningbot.md)   | MJ         |
 | Game Soc     | [Minecraft Server](docs/two/services/gamesoc/minecraft.md) | Daniel     |
 | Game Soc     | [Gmail Bot](docs/two/services/gamesoc/gmail-bot.md)        | Daniel     |
 | LGBTQ Soc    | [Queery](docs/two/services/lgbtqsoc/wordpress.md)          | Unassigned |
