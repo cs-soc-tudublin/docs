@@ -1,20 +1,23 @@
 ---
 title: Huey
-created: 2025-10-16T15:26:02.647Z
+created: 2025-10-16T16:26:02
+modified: 2025-10-18T23:06:57
 tags:
   - two
   - cspp
   - vm
 ---
+
 # **Huey**
 
-Hosts CSPP specific services
+Huey hosts all CS++ Services, and some misc. services for Game_Dev_Soc
 
-IP Address: 10.0.0.66
+**IP:** 10.0.0.109
 
-## Specs
-- Processors: 1
-	Sockets: 1
-	Cores: 1
-- Memory: 8 GiB
-- Hard Disk: 32G
+| **Item**      | **Spec** |
+| ------------- | -------- |
+| **Sockets**   | 1        |
+| **Cores**     | 1        |
+| **RAM**       | 8GiB     |
+| **Hard Disk** | 32GB     |
+| **HA?**       | Yes      |

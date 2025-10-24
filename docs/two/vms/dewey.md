@@ -1,20 +1,23 @@
 ---
 title: Dewey
-created: 2025-10-16T15:18:22.892Z
+created: 2025-10-16T16:18:22
+modified: 2025-10-18T23:04:49
 tags:
   - two
   - vm
   - gamesoc
 ---
+
 # **Dewey**
 
-Hosts Games Society services
+Dewey is used to host all the services for the Games Society
 
-IP Address: 10.0.0.82
+**IP:** 10.0.0.113
 
-## Specs
-- Processors: 16
-	Sockets: 4
-	Cores: 4
-- Memory: 32 GiB
-- Hard Disk: 196G
+| **Item**      | **Spec** |
+| ------------- | -------- |
+| **Sockets**   | 4        |
+| **Cores**     | 4        |
+| **RAM**       | 32GiB    |
+| **Hard Disk** | 196GB    |
+| **HA?**       | Yes      |

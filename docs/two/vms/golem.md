@@ -1,30 +1,29 @@
 ---
 title: Golem
-created: 2025-10-16T15:19:01.045Z
+created: 2025-10-16T16:19:01
+modified: 2025-10-18T23:05:59
 tags:
   - two
   - cspp
   - vm
 ---
+
 # **Golem**
 
-Golem is our primary Reverse Proxy.
-Currently, ports 80 and 443 are port forwarded to this VM. NGINX is installed as the HTTP(s) reverse proxy.
+Golem is our primary Reverse Proxy for all web traffic.
 
-IP Address: 10.0.0.65
+Ports 80 & 443 are port-forwarded to Golem through the router.
 
-## Specs
-- Processors: 1
-	Sockets: 1
-	Cores: 1
-- Memory: 2 GiB
-- Hard Disk: 32G
+NGINX is used as the Reverse Proxy for all HTTP(S) traffic.
 
+**IP:** 10.0.0.110
 
-
-
-
-
-
+| **Item**      | **Spec** |
+| ------------- | -------- |
+| **Sockets**   | 1        |
+| **Cores**     | 1        |
+| **RAM**       | 2GiB     |
+| **Hard Disk** | 32GB     |
+| **HA?**       | Yes      |
 
 In memoriam, Golem Soc.

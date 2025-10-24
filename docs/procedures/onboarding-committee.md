@@ -1,7 +1,7 @@
 ---
 title: Onboarding Committee
 created: 2025-10-10T12:35:55
-modified: 2025-10-16T15:02:12
+modified: 2025-10-24T19:44:34
 tags:
    - procedure
    - committee
