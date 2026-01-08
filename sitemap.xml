@@ -2,238 +2,242 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.cspp.ie/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/contact/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/docs-vision/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/shared-responsibility/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/development/dev-vision/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/hosting/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/hosting/games/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/hosting/passwords/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/hosting/websites/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/one/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/one/what-is-a-container/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/one/what-is-a-vm/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/one/what-is-an-os/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/one/what-is-ceph/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/one/oses/debian/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/one/oses/proxmox/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/ownership/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/ownership/ownership-table/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/joining-committee/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/onboarding-committee/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/onboarding-sysadmins/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/useful-commands/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/vaultwarden/adding-users-to-vaultwarden/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/vaultwarden/connecting-to-vaultwarden/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/procedures/websites/setting-up-a-reverse-proxy/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/three/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/services/cs%2B%2B/nginx/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/services/cs%2B%2B/plume/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/services/cs%2B%2B/zipline/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/services/gamesoc/gmail-bot/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/services/gamesoc/minecraft/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.cspp.ie/two/services/gamesoc/pelican/</loc>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/services/lgbtqsoc/wordpress/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/services/photosoc/wordpress/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/services/radiosoc/azurecast/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/vms/dewey/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/vms/golem/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/vms/huey/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/vms/launchpad-mcquack/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/two/vms/louie/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/server-components/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/server-specs/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/what-is-a-router/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/what-is-a-server/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/what-is-a-switch/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/what-is-a-ups/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/networking/bunsen/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/networking/fiveguys/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/networking/shakedog/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/networking/supermacs/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/other/minecraft/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/other/runner/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/procedures/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/servers/mallard/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/servers/muscovy/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/servers/pancakes/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
     <url>
          <loc>https://docs.cspp.ie/zero/servers/ruddy/</loc>
-         <lastmod>2025-11-01</lastmod>
+         <lastmod>2026-01-08</lastmod>
     </url>
 </urlset>
