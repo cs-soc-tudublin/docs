@@ -90,8 +90,3 @@ If your services were on that server, CS++ will work with you to restore that se
 ## **QUESTIONS** - Who to Ask?
 
 For all queries relating to hosting services on our infrastructure, this policy, or anything relating to CS++, please email comp@societies.tudublin.ie
-
-!!! danger "PENDING APPROVAL"
-
-	This policy is pending approval from the CS++ Systems Administrator Team and the CS++ Committee.
-	This policy is not official and stands as a placeholder.

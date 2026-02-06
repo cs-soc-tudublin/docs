@@ -1,7 +1,7 @@
 ---
 title: Hosting @ CS++
 created: 2025-09-25T16:11:11
-modified: 2025-10-24T19:44:35
+modified: 2025-11-09T20:03:36
 tags:
   - hosting
   - societies
@@ -98,4 +98,4 @@ We can schedule a call or in-person meeting if you'd like!
 
 Even if you're not sure what you want to do, we can give you pointers that may help
 
-We can't wait to help you take the next step
+We can't wait to help you take the next step :)
