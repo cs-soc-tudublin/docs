@@ -35,7 +35,7 @@ This page contains the current list of Systems, Services & Objects and their res
 | [InfluxDB](../two/services/cs++/influxdb.md)       | Daniel          |
 | [Admin VPN](../two/services/cs++/vpn.md)           | Ruán            |
 | Dozzle                                             | Daniel          |
-| Zipline                                            | Daniel          |
+| [Zipline](../two/services/cs++/zipline.md)         | Daniel          |
 | Homepage                                           | Tyler           |
 | Netbox                                             | Pending Removal |
 | BitHunt                                            | Pending Removal |
