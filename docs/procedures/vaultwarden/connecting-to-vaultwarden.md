@@ -1,7 +1,7 @@
 ---
 title: Connecting to VaultWarden
 created: 2025-09-02T17:07:23
-modified: 2025-09-02T17:18:27
+modified: 2026-02-10T18:58:52
 tags:
    - procdure
    - committee
@@ -25,7 +25,7 @@ For this procedure, make sure you have an account created on the VaultWarden. If
 
 ## **METHOD ONE** - Using the Web UI
 
-The VaultWarden can be connected by the UI.
+The VaultWarden can be connected to by the Web UI.
 
 While this works, you will almost always have to use your 2FA login, which makes it clunky.
 
@@ -37,11 +37,11 @@ To do this, go to [vault.cspp.ie](https://vault.cspp.ie), and log in.
 
 Nearly all browsers have a BitWarden extension (BitWarden is the upstream application that VaultWarden is based off of, and they are interoperable!).
 
-Install the BitWarden extension, and when you first open, you should be asked to enter your email.
+Install the BitWarden extension from your browsers's extension store, and when you first open the extension, you should be asked to enter your email.
 
 This is to connect to the official BitWarden servers, which is **not what we want**! In the bottom, where it says `accessing: Bitwarden.com`, click on `bitwarden.com` and select `Self-Hosted`. Fill in `https://vault.cspp.ie` as the Server URL and click `Save`.
 
-Now you can log in with your email and password!
+Now you can log in with the email and password you used when creating your account on the Web UI!
 
 If you have your own BitWarden account outside of the CS++ one, you can click on your profile picture in the top right, and add an account. Make sure you're accessing the correct server when doing this!
 

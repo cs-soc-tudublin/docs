@@ -247,7 +247,7 @@
   "recordLintOnSaveLogs": false,
   "displayChanged": false,
   "lintOnFileChange": true,
-  "displayLintOnFileChangeNotice": false,
+  "displayLintOnFileChangeNotice": true,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "templates"

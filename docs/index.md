@@ -1,17 +1,17 @@
 ---
 created: 2024-07-04T23:11:48
-modified: 2025-09-02T17:08:01
+modified: 2026-02-10T18:26:40
 ---
 
 # Home
 
 ## CS++ Docs
 
-Welcome to CS++'s documentation!
+Welcome to CS++'s technical documentation!
 
-This is where all of our public documentation relies.
+This is where all of our public documentation about our systems & hosting lie.
 
-We write our docs along a 'layer' style. Each layer builds atop the ones below it to completely describe our infrastructure. Starting at the hardware layer, and finishing with 'Paving', how we deploy our services. This allows us to build a complete knowledge-base to train Sysadmins and support our members!
+We write these docs along a 'layer' style. Each layer builds atop the ones below it to completely describe our infrastructure. Starting at the hardware layer, and finishing with 'Paving', how we deploy our services. This allows us to build a complete knowledge-base to train Sysadmins and support our members!
 
 !!! note "No Prior Knowledge Needed!"
 
