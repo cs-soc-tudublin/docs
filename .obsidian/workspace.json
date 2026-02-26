@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/two/services/gamesoc/pelican.md",
+                "file": "docs/three/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pelican"
+              "title": "Untitled"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "5d2b90f03de5779c",
   "lastOpenFiles": [
-    "docs/two/services/gamesoc/minecraft.md",
+    "docs/three/index.md",
+    "docs/three/Untitled.md",
     "docs/two/services/gamesoc/pelican.md",
+    "docs/two/services/gamesoc/minecraft.md",
     "docs/two/services/gamesoc/Untitled.md",
     "docs/two/services/gamesoc/gmail-bot.md",
     "docs/ownership/ownership-table.md",
@@ -201,8 +203,6 @@
     "docs/two/vms/golem.md",
     "vms",
     "docs/one/what-is-an-os.md",
-    "docs/one/oses/proxmox.md",
-    "docs/one/what-is-a-vm.md",
     "docs/two/services/radiosoc",
     "docs/two/vms/wordpress",
     "docs/two/vms/golem",
