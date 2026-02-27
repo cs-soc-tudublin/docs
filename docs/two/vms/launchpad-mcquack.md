@@ -14,10 +14,10 @@ Launchpad hosts all services for Radio Soc
 
 **IP:** 10.0.0.111
 
-| **Item**      | **Spec** |
-| ------------- | -------- |
-| **Sockets**   | 2        |
-| **Cores**     | 2        |
-| **RAM**       | 6GiB     |
-| **Hard Disk** | 128GB    |
-| **HA?**       | Yes      |
+| **Item**               | **Spec** |
+| ---------------------- | -------- |
+| **Sockets**            | 2        |
+| **Cores**              | 2        |
+| **RAM**                | 6GiB     |
+| **Hard Disk**          | 128GB    |
+| **High Availability?** | Yes      |

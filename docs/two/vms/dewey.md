@@ -14,10 +14,10 @@ Dewey is used to host all the services for the Games Society
 
 **IP:** 10.0.0.113
 
-| **Item**      | **Spec** |
-| ------------- | -------- |
-| **Sockets**   | 4        |
-| **Cores**     | 4        |
-| **RAM**       | 32GiB    |
-| **Hard Disk** | 196GB    |
-| **HA?**       | Yes      |
+| **Item**               | **Spec** |
+| ---------------------- | -------- |
+| **Sockets**            | 4        |
+| **Cores**              | 4        |
+| **RAM**                | 32GiB    |
+| **Hard Disk**          | 196GB    |
+| **High Availability?** | Yes      |

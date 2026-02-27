@@ -18,12 +18,12 @@ NGINX is used as the Reverse Proxy for all HTTP(S) traffic.
 
 **IP:** 10.0.0.110
 
-| **Item**      | **Spec** |
-| ------------- | -------- |
-| **Sockets**   | 1        |
-| **Cores**     | 1        |
-| **RAM**       | 2GiB     |
-| **Hard Disk** | 32GB     |
-| **HA?**       | Yes      |
+| **Item**               | **Spec** |
+| ---------------------- | -------- |
+| **Sockets**            | 1        |
+| **Cores**              | 1        |
+| **RAM**                | 2GiB     |
+| **Hard Disk**          | 32GB     |
+| **High Availability?** | Yes      |
 
 In memoriam, Golem Soc.

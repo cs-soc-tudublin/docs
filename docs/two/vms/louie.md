@@ -14,10 +14,10 @@ Louie hosts all Wordpress sites.
 
 **IP:** 10.0.0.112
 
-| **Item**      | **Spec** |
-| ------------- | -------- |
-| **Sockets**   | 1        |
-| **Cores**     | 1        |
-| **RAM**       | 4GiB     |
-| **Hard Disk** | 32GB     |
-| **HA?**       | Yes      |
+| **Item**               | **Spec** |
+| ---------------------- | -------- |
+| **Sockets**            | 1        |
+| **Cores**              | 1        |
+| **RAM**                | 4GiB     |
+| **Hard Disk**          | 32GB     |
+| **High Availability?** | Yes      |
