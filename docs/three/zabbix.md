@@ -14,10 +14,41 @@ We have active Zabbix agents on our VMs
 
 Hosted on [zabbit-ct](../two/containers/zabbix-ct)
 
-## How to Install and Setup Zabbix
+## How to Install Zabbix
+Make a Zabbix Directory ``/src/zabbix``
+Then download the repository to it
 [https://www.zabbix.com/download?zabbix=7.4&os_distribution=debian&os_version=12&components=agent_2&db=&ws=](https://www.zabbix.com/download?zabbix=7.4&os_distribution=debian&os_version=12&components=agent_2&db=&ws=)
 
-Connect to Web Interface (Active Monitoring)
+## How to Setup Zabbix on VM
+Open the .conf file
+``sudo nano /etc/zabbix/zabbix_agent2.conf``
+
+Change the Hostname:
+``Hostname``=*vm_name*.vm.cspp.ie
+
+Restart the service
+``sudo systemctl restart zabbix-agent2``
+
+## How to connect Zabbix to Web Server
+[http://10.0.0.104/zabbix](http://10.0.0.104/zabbix)
+Monitoring -> Hosts
+
+Find Template host (It should be disabled)
+Click <u>Template</u> -> Host -> Clone (Bottom Right)
+
+Change:
+``Host name``=*vm_name*.vm.cspp.ie
+``Visible name``=*Vm_name*
+
+| ``Interfaces`` |       |            |                      |                   |       |
+| -------------- | ----- | ---------- | -------------------- | ----------------- | ----- |
+|                | **Type**  | **IP address** | **DNS name**             | **Connect to**        | **Port**  |
+|                | Agent | *vm_ip*    | *vm_name*.vm.cspp.ie | IP  \|  ***DNS*** | 10050 |
+Scroll down
+Tick **\[ \] Enabled**
+
+
+## Full Install and Setup of Zabbix (Clean VM)
 [https://www.zabbix.com/documentation/7.4/en/manual/guides/monitor_linux](https://www.zabbix.com/documentation/7.4/en/manual/guides/monitor_linux)
 
 You need to open a port on UFW for the Zabbix CT to send passive requests
@@ -34,8 +65,8 @@ Change the config to
 ``sudo systemctl restart zabbix-agent2``
 
 When creating the host on the web interface, 
-``Host name``=*vm_name*.vm.cspp.ie
-``Visible name``=Vm_name
+`Host name`=*vm_name*.vm.cspp.ie
+``Visible name``=*Vm_name*
 
 ``Templates``:
 *Linux by Zabbix agent active*
@@ -50,3 +81,7 @@ Other templates should be added depending on what is running on the VM
 | Type  | IP address | DNS name             | Connect to        | Port  |
 | ----- | ---------- | -------------------- | ----------------- | ----- |
 | Agent | *vm_ip*    | *vm_name*.vm.cspp.ie | IP  \|  ***DNS*** | 10050 |
+
+If the Zabbix agent is getting ``Docker: Service is down``, Zabbix needs to be given permissions to view the Docker Socket
+``sudo usermod -aG docker zabbix``
+``sudo systemctl restart zabbix-agent2``
