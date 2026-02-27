@@ -47,6 +47,6 @@ Other templates should be added depending on what is running on the VM
 
 ``Interfaces``
 
-| Type  | IP address | DNS name           | Connect to        | Port  |
-| ----- | ---------- | ------------------ | ----------------- | ----- |
-| Agent | *vm_ip*    | *vm_ip*.vm.cspp.ie | IP  \|  ***DNS*** | 10050 |
+| Type  | IP address | DNS name             | Connect to        | Port  |
+| ----- | ---------- | -------------------- | ----------------- | ----- |
+| Agent | *vm_ip*    | *vm_name*.vm.cspp.ie | IP  \|  ***DNS*** | 10050 |
