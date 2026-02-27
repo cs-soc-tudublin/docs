@@ -49,6 +49,12 @@ Tick **\[ \] Enabled**
 
 
 ## Full Install and Setup of Zabbix (Clean VM)
+### Install
+Make a Zabbix Directory ``/src/zabbix``
+Then download the repository to it
+[https://www.zabbix.com/download?zabbix=7.4&os_distribution=debian&os_version=12&components=agent_2&db=&ws=](https://www.zabbix.com/download?zabbix=7.4&os_distribution=debian&os_version=12&components=agent_2&db=&ws=)
+
+### Configuration
 [https://www.zabbix.com/documentation/7.4/en/manual/guides/monitor_linux](https://www.zabbix.com/documentation/7.4/en/manual/guides/monitor_linux)
 
 You need to open a port on UFW for the Zabbix CT to send passive requests
