@@ -12,7 +12,7 @@ tags:
 
 We have active Zabbix agents on our VMs
 
-Hosted on [zabbit-ct](../two/containers/zabbix-ct)
+Hosted on [zabbix-ct](../two/containers/zabbix-ct)
 
 ## How to Install Zabbix
 Make a Zabbix Directory ``/src/zabbix``
