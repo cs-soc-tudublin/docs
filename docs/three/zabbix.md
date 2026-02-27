@@ -26,8 +26,9 @@ Open the .conf file
 Change the Hostname:
 ``Hostname``=*vm_name*.vm.cspp.ie
 
-Restart the service
+Restart the service and check its running
 ``sudo systemctl restart zabbix-agent2``
+``sudo systemctl status zabbix-agent2``
 
 ## How to connect Zabbix to Web Server
 [http://10.0.0.104/zabbix](http://10.0.0.104/zabbix)
