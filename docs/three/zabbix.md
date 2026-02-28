@@ -31,7 +31,7 @@ Restart the service and check its running
 ``sudo systemctl status zabbix-agent2``
 
 ## How to connect Zabbix to Web Server
-[http://10.0.0.104/zabbix](http://10.0.0.104/zabbix)
+[http://10.0.0.104/zabbix](http://10.0.0.104/zabbix) (Password in the password manager)
 Monitoring -> Hosts
 
 Find Template host (It should be disabled)
@@ -47,6 +47,13 @@ Change:
 |                | Agent | *vm_ip*    | *vm_name*.vm.cspp.ie | IP  \|  ***DNS*** | 10050 |
 Scroll down
 Tick **\[ \] Enabled**
+
+Then Add.
+
+Hover over "ZBX"
+It should be green and say (Might take a minute):
+Active checks Available
+*vm_name*.vm.cspp.ie:10050 Available
 
 
 ## Full Install and Setup of Zabbix (Clean VM)
