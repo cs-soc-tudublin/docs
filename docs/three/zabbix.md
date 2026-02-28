@@ -41,10 +41,11 @@ Change:
 ``Host name``=*vm_name*.vm.cspp.ie
 ``Visible name``=*Vm_name*
 
-| ``Interfaces`` |       |            |                      |                   |       |
-| -------------- | ----- | ---------- | -------------------- | ----------------- | ----- |
-|                | **Type**  | **IP address** | **DNS name**             | **Connect to**        | **Port**  |
-|                | Agent | *vm_ip*    | *vm_name*.vm.cspp.ie | IP  \|  ***DNS*** | 10050 |
+| ``Interfaces`` |          |                |                      |                   |          |
+| -------------- | -------- | -------------- | -------------------- | ----------------- | -------- |
+|                | **Type** | **IP address** | **DNS name**         | **Connect to**    | **Port** |
+|                | Agent    | *vm_ip*        | *vm_name*.vm.cspp.ie | IP  \|  ***DNS*** | 10050    |
+
 Scroll down
 Tick **\[ \] Enabled**
 
