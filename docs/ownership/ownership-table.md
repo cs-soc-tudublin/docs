@@ -31,8 +31,7 @@ This page contains the current list of Systems, Services & Objects and their res
 | [MorningBot](../two/services/cs++/morningbot.md)   | MJ              |
 | [VaultWarden](../two/services/cs++/vaultwarden.md) | Ruán            |
 | [Plausible](../two/services/cs++/plausible.md)     | Dáithí          |
-| [Grafana](../two/services/cs++/grafana.md)         | Daniel          |
-| [InfluxDB](../two/services/cs++/influxdb.md)       | Daniel          |
+| [Zabbix](../three/zabbix.md)                       | Daniel          |
 | [Admin VPN](../two/services/cs++/vpn.md)           | Ruán            |
 | Dozzle                                             | Daniel          |
 | [Zipline](../two/services/cs++/zipline.md)         | Daniel          |
