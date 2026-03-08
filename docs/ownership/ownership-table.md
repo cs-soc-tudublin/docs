@@ -1,7 +1,7 @@
 ---
 title: Ownership Table
 created: 2025-02-05T21:02:57
-modified: 2026-02-10T18:25:30
+modified: 2026-03-08T12:25:10
 tags:
   - sysadmin
   - ownership
@@ -51,3 +51,4 @@ This page contains the current list of Systems, Services & Objects and their res
 | LGBTQ Soc    | [Queery](docs/two/services/lgbtqsoc/wordpress.md)          | Dáithí    |
 | Radio Soc    | [Azurecast](../two/services/radiosoc/azurecast.md)         | Tyler     |
 | Photo Soc    | [Website](docs/two/services/photosoc/wordpress.md)         | MJ        |
+| Photo Soc    | [Starboard](../two/services/photosoc/starboard.md)         | Ruán      |
