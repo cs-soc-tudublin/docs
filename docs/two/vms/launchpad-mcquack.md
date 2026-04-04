@@ -1,7 +1,7 @@
 ---
 title: Launchpad McQuack
 created: 2025-10-16T16:19:39
-modified: 2025-10-18T23:07:45
+modified: 2026-04-04T17:41:09
 tags:
   - two
   - vm

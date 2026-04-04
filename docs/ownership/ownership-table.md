@@ -1,7 +1,7 @@
 ---
 title: Ownership Table
 created: 2025-02-05T21:02:57
-modified: 2026-03-08T12:25:10
+modified: 2026-04-04T17:41:09
 tags:
   - sysadmin
   - ownership
@@ -38,8 +38,7 @@ This page contains the current list of Systems, Services & Objects and their res
 | Homepage                                           | Tyler           |
 | Netbox                                             | Pending Removal |
 | BitHunt                                            | Pending Removal |
-| WatchTower (To Replace w/ WUD)                     | MJ              |
-|                                                    |                 |
+| WatchTower (To Replace w/ Arcane)                  | MJ              |
 
 ## Non-CS++ Topics
 
@@ -52,3 +51,5 @@ This page contains the current list of Systems, Services & Objects and their res
 | Radio Soc    | [Azurecast](../two/services/radiosoc/azurecast.md)         | Tyler     |
 | Photo Soc    | [Website](docs/two/services/photosoc/wordpress.md)         | MJ        |
 | Photo Soc    | [Starboard](../two/services/photosoc/starboard.md)         | Ruán      |
+| Media Soc    | [Website](docs/two/services/mediasoc/site.md)              | Ruán      |
+| SVP          | [Website](docs/two/services/svp/wordpress.md)              | Ruán      |

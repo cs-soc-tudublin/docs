@@ -1,7 +1,7 @@
 ---
 title: Shared Responsibility Model
 created: 2025-09-02T19:05:42
-modified: 2025-09-02T21:57:40
+modified: 2026-04-04T17:41:09
 tags:
    - universal
    - policy

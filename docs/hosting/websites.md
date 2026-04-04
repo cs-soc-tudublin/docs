@@ -1,7 +1,7 @@
 ---
 title: Hosting Websites
 created: 2025-09-25T16:30:18
-modified: 2026-02-10T18:25:33
+modified: 2026-04-04T17:38:26
 tags:
   - hosting
   - websites
@@ -61,7 +61,9 @@ Some websites designed in Wordpress:
 ### **OPTION 2** - Custom Programmed
 
 !!! `note`
+
 	CS++ does **NOT** provide web development services for clubs or societies! This is a significant additional burden that we do not have the bandwidth to support.
+
 	You are required to manage the creation & maintenance of your website, and CS++ will work with the developer for integration with our infrastructure.
 
 Some people may wish to hand-write their own site. We can also support this!
