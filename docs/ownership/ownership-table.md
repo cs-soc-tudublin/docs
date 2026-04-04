@@ -1,7 +1,7 @@
 ---
 title: Ownership Table
 created: 2025-02-05T21:02:57
-modified: 2026-04-04T17:41:09
+modified: 2026-04-04T18:07:04
 tags:
   - sysadmin
   - ownership
@@ -39,6 +39,7 @@ This page contains the current list of Systems, Services & Objects and their res
 | Netbox                                             | Pending Removal |
 | BitHunt                                            | Pending Removal |
 | WatchTower (To Replace w/ Arcane)                  | MJ              |
+| Arcane                                             | RJM             |
 
 ## Non-CS++ Topics
 
