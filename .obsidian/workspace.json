@@ -55,6 +55,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "docs/procedures/useful-commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "useful-commands"
+            }
+          },
+          {
+            "id": "092265f9f5999de2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "docs/ownership/ownership-table.md",
                 "mode": "source",
                 "source": false
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -84,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -203,21 +219,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "dbe5a317b0c1dbe8",
+  "active": "092265f9f5999de2",
   "lastOpenFiles": [
-    "docs/three/zabbix.md",
+    "docs/ownership/index.md",
+    "docs/two/services/photosoc/starboard.md",
+    "docs/procedures/joining-committee.md",
     "docs/ownership/ownership-table.md",
+    "docs/three/zabbix.md",
     "docs/two/services/cs++/nginx.md",
     "docs/three/index.md",
     "docs/two/containers/zabbix-ct.md",
@@ -237,12 +256,9 @@
     "docs/zero/networking/bunsen.md",
     "docs/contact.md",
     "docs/two/services/gamesoc/Untitled.md",
-    "docs/ownership/index.md",
     "docs/two/services/radiosoc/azurecast.md",
     "docs/two/services/photosoc/wordpress.md",
     "docs/one/oses/debian.md",
-    "docs/one/what-is-ceph.md",
-    "docs/hosting/index.md",
     "docs/procedures/websites",
     "docs/hosting",
     "Untitled",

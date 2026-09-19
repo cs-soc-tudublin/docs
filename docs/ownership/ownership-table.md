@@ -16,30 +16,31 @@ This page contains the current list of Systems, Services & Objects and their res
 | **Object**              | **Owner** |
 | ----------------------- | --------- |
 | Architecture            | Ruán      |
-| Security                | Ruán      |
+| Security                | Tyler     |
 | DNS & NGINX             | MJ        |
 | Physical Infrastructure | Daniel    |
 | Backups                 | Daniel    |
-| Networking              | Dáithí    |
-| Updating VMs & Infra    | Daniel    |
+| Networking              | Jack      |
+| Updating VMs & Infra    | Teodor    |
 
 ## CS++ Topics
 
 | **Object**                                         | **Owner**       |
 | -------------------------------------------------- | --------------- |
-| [Plume](../two/services/cs++/plume.md)             | Dáithí          |
+| [Plume](../two/services/cs++/plume.md)             | Teodor          |
 | [MorningBot](../two/services/cs++/morningbot.md)   | MJ              |
-| [VaultWarden](../two/services/cs++/vaultwarden.md) | Ruán            |
-| [Plausible](../two/services/cs++/plausible.md)     | Dáithí          |
+| [VaultWarden](../two/services/cs++/vaultwarden.md) |                 |
+| [Plausible](../two/services/cs++/plausible.md)     | Teodor          |
 | [Zabbix](../three/zabbix.md)                       | Daniel          |
-| [Admin VPN](../two/services/cs++/vpn.md)           | Ruán            |
-| Dozzle                                             | Daniel          |
+| [Admin VPN](../two/services/cs++/vpn.md)           | Daniel          |
+| Dozzle                                             | Pending Removal |
 | [Zipline](../two/services/cs++/zipline.md)         | Daniel          |
 | Homepage                                           | Tyler           |
 | Netbox                                             | Pending Removal |
 | BitHunt                                            | Pending Removal |
 | WatchTower (To Replace w/ Arcane)                  | MJ              |
-| Arcane                                             | RJM             |
+| Arcane                                             | Tyler           |
+|                                                    |                 |
 
 ## Non-CS++ Topics
 
@@ -48,9 +49,11 @@ This page contains the current list of Systems, Services & Objects and their res
 | game_dev_soc | [EveningBot](../two/services/game-dev-soc/eveningbot.md)   | MJ        |
 | Game Soc     | [Minecraft Server](docs/two/services/gamesoc/minecraft.md) | Daniel    |
 | Game Soc     | [Gmail Bot](docs/two/services/gamesoc/gmail-bot.md)        | Daniel    |
-| LGBTQ Soc    | [Queery](docs/two/services/lgbtqsoc/wordpress.md)          | Dáithí    |
+| Game Soc     | Starboard                                                  | Jack      |
+| LGBTQ Soc    | [Queery](docs/two/services/lgbtqsoc/wordpress.md)          | Tyler     |
 | Radio Soc    | [Azurecast](../two/services/radiosoc/azurecast.md)         | Tyler     |
 | Photo Soc    | [Website](docs/two/services/photosoc/wordpress.md)         | MJ        |
-| Photo Soc    | [Starboard](../two/services/photosoc/starboard.md)         | Ruán      |
-| Media Soc    | [Website](docs/two/services/mediasoc/site.md)              | Ruán      |
-| SVP          | [Website](docs/two/services/svp/wordpress.md)              | Ruán      |
+| Photo Soc    | [Starboard](../two/services/photosoc/starboard.md)         | MJ        |
+| Media Soc    | [Website](docs/two/services/mediasoc/site.md)              | MJ        |
+| SVP          | [Website](docs/two/services/svp/wordpress.md)              | MJ        |
+| Czech Soc    | Website                                                    | MJ        |
