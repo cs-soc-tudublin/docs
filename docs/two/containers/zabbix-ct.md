@@ -1,5 +1,5 @@
 ---
-title: Golem
+title: Zabbix
 created: 2025-10-16T16:19:01
 modified: 2026-04-04T17:41:09
 tags:

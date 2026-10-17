@@ -15,7 +15,7 @@ This page contains the current list of Systems, Services & Objects and their res
 
 | **Object**              | **Owner** |
 | ----------------------- | --------- |
-| Architecture            | Ruán      |
+| Architecture (Legacy)   | Ruán      |
 | Security                | Tyler     |
 | DNS & NGINX             | MJ        |
 | Physical Infrastructure | Daniel    |
@@ -29,7 +29,7 @@ This page contains the current list of Systems, Services & Objects and their res
 | -------------------------------------------------- | --------------- |
 | [Plume](../two/services/cs++/plume.md)             | Teodor          |
 | [MorningBot](../two/services/cs++/morningbot.md)   | MJ              |
-| [VaultWarden](../two/services/cs++/vaultwarden.md) |                 |
+| [VaultWarden](../two/services/cs++/vaultwarden.md) | Jack            |
 | [Plausible](../two/services/cs++/plausible.md)     | Teodor          |
 | [Zabbix](../three/zabbix.md)                       | Daniel          |
 | [Admin VPN](../two/services/cs++/vpn.md)           | Daniel          |
@@ -49,11 +49,11 @@ This page contains the current list of Systems, Services & Objects and their res
 | game_dev_soc | [EveningBot](../two/services/game-dev-soc/eveningbot.md)   | MJ        |
 | Game Soc     | [Minecraft Server](docs/two/services/gamesoc/minecraft.md) | Daniel    |
 | Game Soc     | [Gmail Bot](docs/two/services/gamesoc/gmail-bot.md)        | Daniel    |
-| Game Soc     | Starboard                                                  | Jack      |
+| Game Soc     | [Starboard](https://star.gamesoc.ie/)                      | Jack      |
 | LGBTQ Soc    | [Queery](docs/two/services/lgbtqsoc/wordpress.md)          | Tyler     |
 | Radio Soc    | [Azurecast](../two/services/radiosoc/azurecast.md)         | Tyler     |
 | Photo Soc    | [Website](docs/two/services/photosoc/wordpress.md)         | MJ        |
 | Photo Soc    | [Starboard](../two/services/photosoc/starboard.md)         | MJ        |
 | Media Soc    | [Website](docs/two/services/mediasoc/site.md)              | MJ        |
 | SVP          | [Website](docs/two/services/svp/wordpress.md)              | MJ        |
-| Czech Soc    | Website                                                    | MJ        |
+| Czech Soc    | [Website](czsk.societies.ie)                               | MJ        |
